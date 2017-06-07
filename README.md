@@ -8,4 +8,6 @@ Inteligencia Artificail
 * [First contact](http://www.jorditorres.org/wp-content/uploads/2016/02/FirstContactWithTensorFlow.part1_.pdf)
 
 # Tools
-* [jpyter](http://jupyter.org)
+* [Jupyter](http://jupyter.org)
+* [Python](https://www.python.org/)
+* [Docker](https://www.docker.com/)
