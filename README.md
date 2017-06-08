@@ -13,6 +13,8 @@
 * [Docker](https://www.docker.com/)
 * [TensorFlow](https://www.tensorflow.org)
 * [TensorBuilder - Ghaphics to see training](https://github.com/cgarciae/tensorbuilder)
+* [Tensorflow - Docker image](https://hub.docker.com/r/tensorflow/tensorflow/)
+
 
 # NEWS
 
