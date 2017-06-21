@@ -10,6 +10,7 @@
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 * [Video tutorial - Comenzando](https://nicolasbortolotti.gitbooks.io/tensorflow-documentacion/content/)
 * [Tutorial](http://jorditorres.org/introduccion-practica-al-deep-learning-con-tensorflow-de-google-parte-1/)
+* [Tutorial en español](http://jorditorres.org/libro-hello-world-en-tensorflow/)
 
 ## TOOLS
 
