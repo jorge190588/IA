@@ -8,7 +8,8 @@
 * [First contact](http://www.jorditorres.org/wp-content/uploads/2016/02/FirstContactWithTensorFlow.part1_.pdf)
 * [TensorFlow Models](https://github.com/tensorflow/models)
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
-
+* [Video tutorial - Comenzando](https://nicolasbortolotti.gitbooks.io/tensorflow-documentacion/content/)
+* [Tutorial](http://jorditorres.org/introduccion-practica-al-deep-learning-con-tensorflow-de-google-parte-1/)
 
 ## TOOLS
 
@@ -19,9 +20,5 @@
 * [TensorBuilder - Ghaphics to see training](https://github.com/cgarciae/tensorbuilder)
 * [Tensorflow - Docker image](https://hub.docker.com/r/tensorflow/tensorflow/)
 
-
-## VIDEOTUTORIAL
-
-* [Comenzando](https://nicolasbortolotti.gitbooks.io/tensorflow-documentacion/content/)
 
 
