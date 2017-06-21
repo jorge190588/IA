@@ -12,6 +12,8 @@
 * [Tutorial](http://jorditorres.org/introduccion-practica-al-deep-learning-con-tensorflow-de-google-parte-1/)
 * [Tutorial en español](http://jorditorres.org/libro-hello-world-en-tensorflow/)
 * [TensorFlow.org tutorial](https://www.tensorflow.org/get_started/mnist/mechanics)
+* [Principianates](http://www.p.valienteverde.com/tensorflow-tutorial-basico/)
+
 ## TOOLS
 
 * [Jupyter](http://jupyter.org)
