@@ -1,6 +1,6 @@
 # INTELLIGENCE ARTIFICIAL IA
 
-# DOCUMENTATION
+## DOCUMENTATION
 
 * [git repository](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md)
 * [Popular books](https://www.analyticsvidhya.com/blog/2015/10/read-books-for-beginners-machine-learning-artificial-intelligence/)
@@ -10,7 +10,7 @@
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 
 
-# TOOLS
+## TOOLS
 
 * [Jupyter](http://jupyter.org)
 * [Python](https://www.python.org/)
@@ -20,5 +20,8 @@
 * [Tensorflow - Docker image](https://hub.docker.com/r/tensorflow/tensorflow/)
 
 
-# NEWS
+## VIDEOTUTORIAL
+
+* [Comenzando](https://nicolasbortolotti.gitbooks.io/tensorflow-documentacion/content/)
+
 
