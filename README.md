@@ -23,5 +23,6 @@
 * [TensorBuilder - Ghaphics to see training](https://github.com/cgarciae/tensorbuilder)
 * [Tensorflow - Docker image](https://hub.docker.com/r/tensorflow/tensorflow/)
 
-
+## NEWS
+* [Object recognition](https://elpais.com/tecnologia/2016/07/06/actualidad/1467806590_243406.html)
 
