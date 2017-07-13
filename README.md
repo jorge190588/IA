@@ -23,6 +23,7 @@
 * [TensorBuilder - Ghaphics to see training](https://github.com/cgarciae/tensorbuilder)
 * [Tensorflow - Docker image](https://hub.docker.com/r/tensorflow/tensorflow/)
 * Create graphs [Tool one](https://dl.dropboxusercontent.com/u/4189520/GraphJS/graphjs.html), [Tool two](http://graphonline.ru/en/)
+* [Google Cloud Vision](https://cloud.google.com/vision/)
 
 ## NEWS
 * [Object recognition](https://elpais.com/tecnologia/2016/07/06/actualidad/1467806590_243406.html)
