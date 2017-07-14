@@ -22,6 +22,10 @@
 * [TensorFlow](https://www.tensorflow.org)
 * [TensorBuilder - Ghaphics to see training](https://github.com/cgarciae/tensorbuilder)
 * [Tensorflow - Docker image](https://hub.docker.com/r/tensorflow/tensorflow/)
+* Create graphs [Tool one](https://dl.dropboxusercontent.com/u/4189520/GraphJS/graphjs.html), [Tool two](http://graphonline.ru/en/)
+* [Google Cloud Vision](https://cloud.google.com/vision/)
+* [Google Cloud vision with nodejs](https://www.npmjs.com/package/@google-cloud/vision)
 
-
-
+## NEWS
+* [Object recognition](https://elpais.com/tecnologia/2016/07/06/actualidad/1467806590_243406.html)
+* [Elon Musk -superhumans](http://www.infobae.com/tendencias/innovacion/2017/06/10/la-nueva-startup-de-elon-musk-que-promete-convertir-a-los-humanos-en-superhombres/)
