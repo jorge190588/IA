@@ -29,3 +29,4 @@
 ## NEWS
 * [Object recognition](https://elpais.com/tecnologia/2016/07/06/actualidad/1467806590_243406.html)
 * [Elon Musk -superhumans](http://www.infobae.com/tendencias/innovacion/2017/06/10/la-nueva-startup-de-elon-musk-que-promete-convertir-a-los-humanos-en-superhombres/)
+* [Estas son las mejores universidades de América Latina en 2017 (y cuáles son los 4 países que se destacan)](http://www.msn.com/es-xl/noticias/sociedad/estas-son-las-mejores-universidades-de-am%c3%a9rica-latina-en-2017-y-cu%c3%a1les-son-los-4-pa%c3%adses-que-se-destacan/ar-AAou8W6?li=AAgh0dF&ocid=U453DHP)
