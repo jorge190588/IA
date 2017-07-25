@@ -1,22 +1,22 @@
 # Cuestionario sobre redes neuronales
 
 1. ¿Cuál es uno de los métodos más sencillos y usados en el mundo para crear inteligencia artificial?
-(x)Programación avanzada
-(x)Red Neuronal Física
-(*)Red Neuronal Artificial
-(x)Algoritmos
+* (x)Programación avanzada
+* (x)Red Neuronal Física
+* (*)Red Neuronal Artificial
+* (x)Algoritmos
 
 2. ¿En qué está basada la Red Neuronal Artificial?
-(x)En los algoritmos
-(x)En métodos sofisticados de inteligencia.
-(x)En el teorema de Bayes.
-(*)En el funcionamiento simple de las neuronas del cerebro humano
+* (x)En los algoritmos
+* (x)En métodos sofisticados de inteligencia.
+* (x)En el teorema de Bayes.
+* (*)En el funcionamiento simple de las neuronas del cerebro humano
 
 3. ¿Cómo se le llama al proceso por el cual las neuronas se comunican entre ellas?
-(*)Sinapsis
-(x)Mnemotecnia.
-(x)Cognición
-(x)Serotonina
+* (*)Sinapsis
+* (x)Mnemotecnia.
+* (x)Cognición
+* (x)Serotonina
 
 4. ¿Cuáles son los tipos de nodos en las redes neuronales artificiales?
 (x)Simétricos, Uniformes y Curvos.
