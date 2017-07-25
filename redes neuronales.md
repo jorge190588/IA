@@ -114,4 +114,11 @@
 (X) Entradas, núcleos y nodos.
 (x) Variables, Ocultos y Públicos.
 
+20. ¿De qué se encuentra compuesto el conjunto de datos MNIST?
+ (X)Por dígitos.
+(*) Por imágenes en blanco y negro de dígitos hechos a mano.
+(X) Por información.
+(x) Por matrices.
+
+
 
