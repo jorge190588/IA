@@ -107,3 +107,11 @@
 (x)Aprendizaje No supervisado
 (*)Aprendizaje Híbrido
 (x)Aprendizaje Supervisado
+
+19. ¿Cuáles son las tres formas de llevar a cabo el aprendizaje supervisado?
+ (*) Aprendizaje por corrección de error, Aprendizaje por refuerzo y  Aprendizaje estocástico.
+(X) Híbrido, Contínuo y salidas.
+(X) Entradas, núcleos y nodos.
+(x) Variables, Ocultos y Públicos.
+
+
