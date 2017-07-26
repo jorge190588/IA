@@ -119,5 +119,3 @@
 (*) Por imágenes en blanco y negro de dígitos hechos a mano.
 (X) Por información.
 (x) Por matrices.
-
-
