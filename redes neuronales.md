@@ -19,16 +19,16 @@
 * (x)Serotonina
 
 4. ¿Cuáles son los tipos de nodos en las redes neuronales artificiales?
-(x)Simétricos, Uniformes y Curvos.
-(*)De Entrada, de Salida y Ocultos.
-(x)Abiertos y cerrados
-(x)Todos los antreriores.
+* (x)Simétricos, Uniformes y Curvos.
+* (*)De Entrada, de Salida y Ocultos.
+* (x)Abiertos y cerrados
+* (x)Todos los antreriores.
 
 5. ¿Cuáles son los nodos que reciben información del exterior?
-(*)Nodos de entrada
-(x)Nodos Simétricos
-(x)Nodos Ocultos
-(x)Nodos Uniformes
+* (*)Nodos de entrada
+* (x)Nodos Simétricos
+* (x)Nodos Ocultos
+* (x)Nodos Uniformes
 
 6. ¿Cuáles son los nodos que solamente intercambian información con otros nodos de la red?
 (x)Nodos de Entrada
