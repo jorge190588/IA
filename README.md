@@ -33,5 +33,8 @@
 
 
 # PROYECTOS
+* [Red neuronal convolucional(con dropout) usando notMNIST dataset(reconocimiento de imagenes)](https://github.com/llealgt/google_machine_learning_nanodegree_deep_learning/blob/master/4_convolutions.ipynb)
+* [Red neuronal convolucional usando Cifar10 dataset(reconocimeinto de imagenes)](https://github.com/llealgt/CIFAR_10_Convolutional_neural_network)
+* [Transfer learning(uso de red preentrenada, sustituyendo las ultimas capas) utilizando arquitectura vgg16](https://github.com/llealgt/Tensorflow_transfer_learning)
 * [Reconcimiento de iamgenes para usuarios de la convencion](LINK)
 
