@@ -162,5 +162,11 @@
     (x)  ‘1’ o ‘2’
     (x)  ‘0’ o ‘0’
     (x)  ‘1’ o ‘1’
+   
+28. Según el tema de redes neuronales las neuronas se dividen en capas ¿Cuál es el nombre de la capa inferior?
+    (*)  (input layer) 
+    (x)  (inferior layer) 
+    (x)  (out put layer)
+    (x)  (Hidden layer)
 
 
