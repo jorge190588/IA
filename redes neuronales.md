@@ -204,6 +204,12 @@
     (*) mean squared error o el Squared Euclidean Distance
     (x) Mean algoritmo
     (x) Squared algoritmo
+    
+35. ¿Como se representa el error de entropía cruzada?
+    (*) cross entropy error
+    (x) Entropía cruzada
+    (x) Error de entropía
+    (x) Error cruzado
 
 
 
