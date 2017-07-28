@@ -174,5 +174,11 @@
     (*) (output layer)
     (x) (inferior layer) 
     (x) (superior layer) 
+    
+30. ¿Cómo se llaman las capas intermedias?
+    (x) Imput layers
+    (x) Layers medias
+    (x) Intermedias
+    (*) hidden layers
 
 
