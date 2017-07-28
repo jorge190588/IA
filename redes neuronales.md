@@ -221,7 +221,7 @@
     (*) train_step = tf.train.GradientDescentOptimizer(0.01).minimize(cross_entropy)
     (x) sess.run(tf.initialize_all_variables())
     (x) sess.run(train_step, feed_dict={x: batch_xs, y_: batch_ys})
-    (x)  batch_xs, batch_ys = mnist.train.next_batch(100)
+    (x)  batch_xs, batch_ys = mnist.train.next_batch(100) 
      
 
 
