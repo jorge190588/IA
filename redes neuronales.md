@@ -119,3 +119,9 @@
 (*) Por imágenes en blanco y negro de dígitos hechos a mano.
 (X) Por información.
 (x) Por matrices.
+
+21. ¿Cuál es la dimensión correcta de la matriz de numeros que representa las imagenes en espacios vectoriales?
+    (x) Matriz 28x28=574 números.
+    (x) Array[28,28]={1,2,3...884}
+    (*) Array de 28×28 = 784 números.
+    (x) ArregloVectorial[28x28]={784}
