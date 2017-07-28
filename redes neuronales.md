@@ -169,4 +169,10 @@
     (x)  (out put layer)
     (x)  (Hidden layer)
 
+29. ¿Cuál es el nombre de la capa superior que da las respuestas?
+    (x) (input layer) 
+    (*) (output layer)
+    (x) (inferior layer) 
+    (x) (superior layer) 
+
 
