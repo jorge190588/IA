@@ -125,3 +125,9 @@
     (x) Array[28,28]={1,2,3...884}
     (*) Array de 28×28 = 784 números.
     (x) ArregloVectorial[28x28]={784}
+    
+22. ¿Cuál es el nombre de la linea que separa los dos grupos de puntos en el plano? 
+    (*) Clasificador
+    (X) Separador
+    (X) Identificador
+    (X) Divisora
