@@ -210,6 +210,13 @@
     (x) Entropía cruzada
     (x) Error de entropía
     (x) Error cruzado
+    
+36. ¿Cuál es el algoritmo que propaga hacia atrás el error para poder recalcular los pesos?
+     (x) Algoritmo de recálculo.
+     (x) Propagación hacia atrás
+     (*) backpropagation, abreviación de backward propagation of errors
+     (x) Algoritmo de propagación de errores
+     
 
 
 
