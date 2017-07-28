@@ -131,3 +131,9 @@
     (X) Separador
     (X) Identificador
     (X) Divisora
+    
+23. ¿De qué forma son representados los datos de entrada?
+    (*) (x,y) 
+    (x) (w,x)
+    (x) (dato1, dato2)
+    (x) (y,z)
