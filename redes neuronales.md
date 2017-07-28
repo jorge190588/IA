@@ -186,5 +186,12 @@
      (x) Function y Activation
      (*) Sigmoid y Softmax
      (x) Software y Function.
+     
+32. ¿Cuáles son los dos pasos princiaples en los que se concreta la función Softmax?
+      (x) Entradas y luego salidas
+      (x) Certeza y luego resultados
+      (x) Probabilidades y luego evidencias
+      (*) Evidencias y luego probabilidades
+
 
 
