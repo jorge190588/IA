@@ -198,6 +198,12 @@
     (x) Entrenamiento 
     (x) De datos
     (x) De proceso.
+    
+34. ¿Cuál podría ser una medida común de error? 
+    (x) Error común
+    (*) mean squared error o el Squared Euclidean Distance
+    (x) Mean algoritmo
+    (x) Squared algoritmo
 
 
 
