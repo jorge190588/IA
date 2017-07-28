@@ -143,3 +143,11 @@
     (x)  y = W * x + z
     (x)  z = W * x + y
     (x)  y = W * a + b
+    
+25. ¿Con qué se representa el vector de peso?
+    (x) y
+    (*) W
+    (x) Z
+    (x) b
+
+
