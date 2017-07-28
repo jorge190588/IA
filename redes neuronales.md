@@ -149,5 +149,11 @@
     (*) W
     (x) Z
     (x) b
+ 
+ 26. ¿Qué representa b? 
+     (*)Un sesgo
+     (x)Un incremento
+     (x)Una ganancia
+     (x)Un peso.
 
 
