@@ -180,5 +180,11 @@
     (x) Layers medias
     (x) Intermedias
     (*) hidden layers
+    
+31. ¿Cuáles son ejemplos de funciones de activación?
+     (x) Activation y Sigmod
+     (x) Function y Activation
+     (*) Sigmoid y Softmax
+     (x) Software y Function.
 
 
