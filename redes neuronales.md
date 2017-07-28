@@ -192,6 +192,12 @@
       (x) Certeza y luego resultados
       (x) Probabilidades y luego evidencias
       (*) Evidencias y luego probabilidades
+      
+33. ¿Cómo se llama el algoritmo que coge los datos de entrenamiento?
+    (*) Training
+    (x) Entrenamiento 
+    (x) De datos
+    (x) De proceso.
 
 
 
