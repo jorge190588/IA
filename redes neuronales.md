@@ -217,6 +217,12 @@
      (*) backpropagation, abreviación de backward propagation of errors
      (x) Algoritmo de propagación de errores
      
+37. ¿Cuál es el comando que indica a TensorFlow que use el algoritmo de backpropagation para minimizar el cross-entropy usando el algoritmo gradient descent (con un learning rate de 0.01?
+    (*) train_step = tf.train.GradientDescentOptimizer(0.01).minimize(cross_entropy)
+    (x) sess.run(tf.initialize_all_variables())
+    (x) sess.run(train_step, feed_dict={x: batch_xs, y_: batch_ys})
+    (x)  batch_xs, batch_ys = mnist.train.next_batch(100)
+     
 
 
 
