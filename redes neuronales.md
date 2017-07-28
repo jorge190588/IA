@@ -155,5 +155,12 @@
      (x)Un incremento
      (x)Una ganancia
      (x)Un peso.
+     
+27. ¿Cuáles son los resultados que produce la función de activación no lineal?
+
+    (*)  ‘0’ o ‘1’
+    (x)  ‘1’ o ‘2’
+    (x)  ‘0’ o ‘0’
+    (x)  ‘1’ o ‘1’
 
 
