@@ -137,3 +137,9 @@
     (x) (w,x)
     (x) (dato1, dato2)
     (x) (y,z)
+    
+24. Según la regresión lineal ¿De qué forma puede ser definida por la recta la línea o clasificador?
+    (*) y = W * x + b
+    (x)  y = W * x + z
+    (x)  z = W * x + y
+    (x)  y = W * a + b
