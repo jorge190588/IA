@@ -39,3 +39,15 @@
 * [Reconcimiento de iamgenes para usuarios de la convencion](LINK)
 * [Reconomiento de Voz Veronica](https://drive.google.com/open?id=0B79nSJbWXueEby1kV1ZtRm9rZ0k)
 
+
+# VIDEOS
+## 1. 
+* Marlon y Jairo
+* Mayte y Telma
+* Gerson y Fredy
+
+## 2. 
+* Esvin y Douglas
+* Kevin y Carlos
+* Jimmy
+* Freddy
