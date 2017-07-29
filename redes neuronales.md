@@ -31,10 +31,10 @@
 * (x)Nodos Uniformes
 
 6. ¿Cuáles son los nodos que solamente intercambian información con otros nodos de la red?
-(x)Nodos de Entrada
-(x)Nodos de salida
-(x)Nodos Uniformes
-(*)Nodos Ocultos
+* (x)Nodos de Entrada
+* (x)Nodos de salida
+* (x)Nodos Uniformes
+* (*)Nodos Ocultos
 
 7. ¿Cuáles son los nodos que transmiten la información al exterior?
 (x)Nodos de Entrada
