@@ -41,12 +41,12 @@
 
 
 # VIDEOS
-## 1. 
+## 1. [Demostración de Deep Learning con TensorFlow](https://www.youtube.com/watch?v=UYttzdEc1OI&t=2585s&list=PLsn4s6AtgL4iJ6sk9ws-OVk2pd20hDVHt&index=9)
 * Marlon y Jairo
 * Mayte y Telma
 * Gerson y Fredy
 
-## 2. 
+## 2. [Neural Networks con TensorFlow para reconocimiento de imágen](https://www.youtube.com/watch?v=gD_TJzzA29U&index=18&list=PLsn4s6AtgL4iJ6sk9ws-OVk2pd20hDVHt)
 * Esvin y Douglas
 * Kevin y Carlos
 * Jimmy
