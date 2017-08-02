@@ -38,7 +38,7 @@
 * [Transfer learning(uso de red preentrenada, sustituyendo las ultimas capas) utilizando arquitectura vgg16](https://github.com/llealgt/Tensorflow_transfer_learning)
 * [Reconocimiento de imágenes para usuarios de la convencion](LINK)
 * [Reconocimiento de Voz Veronica](https://drive.google.com/open?id=0B79nSJbWXueEby1kV1ZtRm9rZ0k)
-* [Reconocimiento de voz e imágenes](https://drive.google.com/drive/u/1/folders/0ByLHSp4ns4YvS0hnRl9mMTR5b28)
+* [Reconocimiento de imágenes/voz ( Maitée, Thelma)](https://drive.google.com/drive/u/1/folders/0ByLHSp4ns4YvS0hnRl9mMTR5b28)
 
 # VIDEOS
 ## 1. [Demostración de Deep Learning con TensorFlow](https://www.youtube.com/watch?v=UYttzdEc1OI&t=2585s&list=PLsn4s6AtgL4iJ6sk9ws-OVk2pd20hDVHt&index=9)
