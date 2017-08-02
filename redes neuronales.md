@@ -2,7 +2,7 @@
 
 1. ¿Cuál es uno de los métodos más sencillos y usados en el mundo para crear inteligencia artificial?
 * (x)Programación avanzada
-* (x)Red Neuronal Física
+* (:D)Red Neuronal Física
 * (*)Red Neuronal Artificial
 * (x)Algoritmos
 
