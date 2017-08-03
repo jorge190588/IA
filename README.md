@@ -14,7 +14,7 @@
 * [TensorFlow.org tutorial](https://www.tensorflow.org/get_started/mnist/mechanics)
 * [Principianates](http://www.p.valienteverde.com/tensorflow-tutorial-basico/)
 * [TensorFlow awesome](https://github.com/jtoy/awesome-tensorflow)
-
+* [TensorFlow Board usage](http://ischlag.github.io/2016/06/04/how-to-use-tensorboard/)
 
 ## TOOLS
 
