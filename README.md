@@ -13,6 +13,8 @@
 * [Tutorial en español](http://jorditorres.org/libro-hello-world-en-tensorflow/)
 * [TensorFlow.org tutorial](https://www.tensorflow.org/get_started/mnist/mechanics)
 * [Principianates](http://www.p.valienteverde.com/tensorflow-tutorial-basico/)
+* [TensorFlow awesome](https://github.com/jtoy/awesome-tensorflow)
+
 
 ## TOOLS
 
