@@ -41,7 +41,7 @@
 * [Reconocimiento de imágenes para usuarios de la convencion](LINK)
 * [Reconocimiento de Voz Veronica](https://drive.google.com/open?id=0B79nSJbWXueEby1kV1ZtRm9rZ0k)
 * [Reconocimiento de imágenes/voz ( Maitée, Thelma)](https://drive.google.com/drive/u/1/folders/0ByLHSp4ns4YvS0hnRl9mMTR5b28)
-* [Inspector de frutas y verduras "InspectoFruver" ( Esvin, Douglas)](https://drive.google.com/file/d/0B3t8QXbSGkRpOEd1YkNwNktmaW8/view?usp=sharing)
+* [Inspector de frutas y verduras "InspectoFruver" ( Esvin, Douglas)](https://drive.google.com/open?id=0B_FnLL69bwhMMXpNU2RtUWRTcVk)
 * [Reconocimiento de rostros "DetecFace" ( Gerson, Fredy)](https://drive.google.com/open?id=0B8CA4oaJskMrTGhJeTRSeDQyTE0)
 
 
