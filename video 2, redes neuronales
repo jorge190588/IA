@@ -16,6 +16,12 @@
 .(x)  import ten, import import, import sum, etc.
 .(x)  import atf, import square rum, import calculo, etc.
 
+4. ¿Cuál es la forma de definir variables en tensorflow? 
+.(x)  int x
+.(x)  float none y
+.(ok) x = tf.placeholder("float", [None, 784])
+.(x)  char w
+
 
 ¿Para que sirve la funcion Softmax?
 
