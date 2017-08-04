@@ -23,7 +23,11 @@
 .(x)  char w
 
 
-¿Para que sirve la funcion Softmax?
+5. ¿Para que sirve la funcion Softmax?
+.(ok)  Para las categorías mutuamente excluyentes y asi mejorar el aprendizaje.
+.(x)  Para las categorías diversas
+.(x) Para calcular una salida
+.(x)  Para especificar salidas
 
 
 ¿Como implementar Apis en TensorFlow?
