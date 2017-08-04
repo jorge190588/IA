@@ -1,15 +1,23 @@
-1.¿Qué es TensorFlow? 
+1. ¿Qué es TensorFlow? 
 .(Ok) Una biblioteca de código abierto desarrollada por google que se basa en un sistema de redes neuronales.
 .(x) Un lenguaje de programación como cualquier otro
 .(x) Lenguaje que aprende y enseña
 .(x) Lenguaje que enseña a programar
 
-¿Cuál es la forma estandar de importar TensorFlow?
+2. ¿Cuál es la forma estandar de importar TensorFlow?
 .(Ok) import tensorflow as tf
 .(x)  import tensorflow as tensorflow
 .(x)  import as tf
 .(x)  import tf as
 
+3. ¿Cuáles son ejemplos de imports en tensorflow?
+.(Ok) import loadmat, import plotly.offline a py, import plotly.graph_objs as go, import numpy as np, import random, etc.
+.(x)  import tensorflow as tensorflow, import go, import as, etc.
+.(x)  import ten, import import, import sum, etc.
+.(x)  import atf, import square rum, import calculo, etc.
+
+
 ¿Para que sirve la funcion Softmax?
+
 
 ¿Como implementar Apis en TensorFlow?
