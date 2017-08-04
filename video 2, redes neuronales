@@ -4,7 +4,11 @@
 (x) Lenguaje que aprende y enseña
 (x) Lenguaje que enseña a programar
 
-¿Como se grafica en PLOTLY con TensorFlow?
+¿Cuál es la forma estandar de importar TensorFlow?
+.(Ok) import tensorflow as tf
+.(x)  import tensorflow as tensorflow
+.(x)  import as tf
+.(x)  import tf as
 
 ¿Para que sirve la funcion Softmax?
 
