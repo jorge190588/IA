@@ -32,5 +32,12 @@
 .(x)   Para calcular una salida
 .(x)   Para especificar salidas
 
+6. ¿Cuál sería la linea de código para generar una prediccion?
+.(ok)  prediction = prediccion.prediccion(x[n:n+1])
+.(x)   prediction = prediccion.predict(x[n:n+1])
+.(x)   prediccion = modelo.predictivo(x[n:n+1])
+.(ok)  prediction = model.predict(x[n:n+1])
+
+
 
 ¿Como implementar Apis en TensorFlow?
