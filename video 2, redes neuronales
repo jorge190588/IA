@@ -38,6 +38,11 @@
 .(x)   prediccion = modelo.predictivo(x[n:n+1])
 .(ok)  prediction = model.predict(x[n:n+1])
 
+7. ¿Cuál sería la línea de código para generar una prediccion con el argumento máximo, sin tomar en cuenta la impresión de resultados?
+.(x)  prediction = prediccion.prediccion(x[n:n+1])
+.(ok) prediction = np.argmax(prediction)
+.(x)  prediccion = modelo.predictivo(maximo)
+.(x)  prediction = np.argumentomaximo(salida)
 
 
 ¿Como implementar Apis en TensorFlow?
