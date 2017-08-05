@@ -1,1 +1,41 @@
+#--------------------CUESTIONARIO DEL VIDEO #1----------------------
+#--------------------------DEEP LEARNING----------------------------
+1.	¿Para qué se usa el deep learning actualmente?
+* Reconocimiento de imagen, visión de robots, siri, google now, chatbots, automatic translation, etc.
+
+2.	¿Cuáles son algunos framewoks para Deep Learning?
+* Tensorflow, Apache Spark, Scikit Learn, Caffe.
+
+3.	¿Por qué se llama machine learning o deep learning?
+*  Porque se deben aprender ciertos parámetros
+
+4.	¿Cuáles son las funciones más utilizadas en deep learning?
+*  Función logística y ecuación ReLU
+
+5.	¿Para que se utiliza la función logística ?
+*  Para clasificación binaria
+
+6.	¿Para que se utiliza la función ReLU?
+*   Es usada para la mayoría de los problemas de deep learning.
+
+7.	¿Qué significa ReLU?
+*  Rectified Linear Unit
+
+8.	¿Qué significa PReLU?
+*  Parametric Rectified Linear Unit
+
+9.	¿Qué es Convolutional Neural Networks?
+*  Redes especializadas en imagen cuyas capas de neuronas están organizadas en matrices o cuadrados y tienen ciertas conexiones especiales y se conectan en vecindarios para aprovechar la información espacial de las imágenes e ir aprendiendo de forma más eficiente.
+
+10.	¿Qué son las Recurrent Neural Networks?
+* Se usan para aprender secuencias, series de tiempo, series de palabras (textos).
+
+11.	¿Cuál es un aspecto importante en el avance del deep learning?
+* El uso de GPUs porque les ayudaba a hacerlo en mucho menos tiempo.
+
+12.	¿Qué es tensorflow?
+* Es un framework de computación simbólica creado por Google. Se puede configurar para que se corra en varios computadores.
+
+13.	¿Para que se usa el algoritmo de minimización?
+*  Se usa para que la red vaya aprendiendo.
 
