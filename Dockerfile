@@ -26,6 +26,6 @@ ENTRYPOINT /bin/bash
 #jupyter notebook
 
 #run tensorflow builder
-tensorboard --logdir=run1:/tmp/tensorflow/ --port 6006
+#tensorboard --logdir=run1:/tmp/tensorflow/ --port 6006
 
 
