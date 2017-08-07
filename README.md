@@ -38,7 +38,7 @@
 * [Red neuronal convolucional(con dropout) usando notMNIST dataset(reconocimiento de imagenes)](https://github.com/llealgt/google_machine_learning_nanodegree_deep_learning/blob/master/4_convolutions.ipynb)
 * [Red neuronal convolucional usando Cifar10 dataset(reconocimeinto de imagenes)](https://github.com/llealgt/CIFAR_10_Convolutional_neural_network)
 * [Transfer learning(uso de red preentrenada, sustituyendo las ultimas capas) utilizando arquitectura vgg16](https://github.com/llealgt/Tensorflow_transfer_learning)
-* [Reconocimiento de imágenes para usuarios de la convencion](LINK)
+* [Reconocimiento de imágenes para usuarios de la convencion](https://drive.google.com/file/d/0B9UrV6uCiXGJODhUcENfcnhKdnM/view)
 * [Reconocimiento de Voz Veronica](https://drive.google.com/open?id=0B79nSJbWXueEby1kV1ZtRm9rZ0k)
 * [Reconocimiento de imágenes/voz ( Maitée, Thelma)](https://drive.google.com/drive/u/1/folders/0ByLHSp4ns4YvS0hnRl9mMTR5b28)
 * [Inspector de frutas y verduras "InspectoFruver" ( Esvin, Douglas)](https://drive.google.com/open?id=0B_FnLL69bwhMMXpNU2RtUWRTcVk)
