@@ -43,10 +43,10 @@
 * (x)Nodos Uniformes
 
 8. ¿Cuáles son los nodos que no tienen ningún contacto con el exterior?
-(x)Nodos de Entrada
-(*)Nodos Ocultos
-(x)Nodos Uniformes
-(x)Nodos de salida
+*(x)Nodos de Entrada
+*(*)Nodos Ocultos
+*(x)Nodos Uniformes
+*(x)Nodos de salida
 
 9. ¿Cómo se encuentran organizados los nodos ocultos en la red neuronal?
 (x)Por Tamaño
