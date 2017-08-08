@@ -39,3 +39,33 @@
 13.	¿Para que se usa el algoritmo de minimización?
 *  Se usa para que la red vaya aprendiendo.
 
+14.¿Que es deep Learnig?
+Se utiliza para reconocer imagenes,siri, vision de robots, chatbots
+
+
+15.¿Cual es la funcion primordial de maching learnig o deep learnig?
+* Porque aprende por parametros
+
+16. ¿Frameworks que se utilizan para Deep Learnig
+	*Tensorflow,Apache Spark,Scit Lear
+
+17. Conceptos Basicos que debe aprender una Neurona?
+	Espacios de arriba, abajo, Izquierda Derecha.
+
+18. ¿Que es ingenieria de Caracteristicas?
+ * Es cuando las redes aprenden por nosotros el espacion
+
+19. Herramientas utilizadas para el entrenamiento de redes Neuronales
+	* GPUS
+
+20 ¿Que es un googLetNet? Es una gran coleccin de datos con mas de 10 millones de registros
+
+21. ¿Que es Tensor Flow?
+ Es un framewor de computacion simbolica creado por google. El cual contrato
+a la gente mas capacitada para desarrollarlo , Corre en IOS android y rpi
+
+
+22.Qué son las Recurrent Neural Networks?
+ +* Se usan para aprender secuencias, series de tiempo, series de palabras (textos).
+ +
+
