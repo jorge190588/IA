@@ -37,10 +37,10 @@
 * (*)Nodos Ocultos
 
 7. ¿Cuáles son los nodos que transmiten la información al exterior?
-(x)Nodos de Entrada
-(x)Nodos Ocultos
-(*)Nodos de salida
-(x)Nodos Uniformes
+* (x)Nodos de Entrada
+* (x)Nodos Ocultos
+* (*)Nodos de salida
+* (x)Nodos Uniformes
 
 8. ¿Cuáles son los nodos que no tienen ningún contacto con el exterior?
 (x)Nodos de Entrada
