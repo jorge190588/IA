@@ -19,6 +19,8 @@
 ## TOOLS
 
 * [Jupyter](http://jupyter.org)
+* [Jupyter notebook video](https://www.youtube.com/watch?v=q_BzsPxwLOE)
+* [Jypyter notebook documentation](http://jupyter.readthedocs.io/en/latest/install.html)
 * [Python](https://www.python.org/)
 * [Docker](https://www.docker.com/)
 * [TensorFlow](https://www.tensorflow.org)
@@ -27,6 +29,8 @@
 * Create graphs [Tool one](https://dl.dropboxusercontent.com/u/4189520/GraphJS/graphjs.html), [Tool two](http://graphonline.ru/en/)
 * [Google Cloud Vision](https://cloud.google.com/vision/)
 * [Google Cloud vision with nodejs](https://www.npmjs.com/package/@google-cloud/vision)
+* [The R Project for Statistical Computing](https://www.r-project.org/), [r examples](http://www.rexamples.com/5/Guess%20a%20random%20number%20game)
+
 
 ## NEWS
 * [Object recognition](https://elpais.com/tecnologia/2016/07/06/actualidad/1467806590_243406.html)
