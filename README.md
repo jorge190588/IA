@@ -29,10 +29,10 @@
 
 ### Jupyter
 * [web site](http://jupyter.org)
-* [Jupyter notebook video](https://www.youtube.com/watch?v=q_BzsPxwLOE)
+* [What is Jupyter Notebook? video](https://www.youtube.com/watch?v=q_BzsPxwLOE)
 * [Jupyter notebook documentation](http://jupyter.readthedocs.io/en/latest/install.html)
 * [JUse Jupyter to get Stock Data (Real time)](https://www.youtube.com/watch?v=szxFg1RFpTg)
-
+* [Awesome data visualization tools in Python](https://www.youtube.com/watch?v=OC-YdBz8Llw)
 
 ## NEWS
 * [Object recognition](https://elpais.com/tecnologia/2016/07/06/actualidad/1467806590_243406.html)
