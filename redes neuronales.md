@@ -2,7 +2,7 @@
 
 1. ¿Cuál es uno de los métodos más sencillos y usados en el mundo para crear inteligencia artificial?
 * (x)Programación avanzada
-* (:D)Red Neuronal Física
+* (x)Red Neuronal Física
 * (*)Red Neuronal Artificial
 * (x)Algoritmos
 
@@ -223,6 +223,24 @@
     * (x) sess.run(train_step, feed_dict={x: batch_xs, y_: batch_ys})
     * (x)  batch_xs, batch_ys = mnist.train.next_batch(100) 
      
-
+ 38. ¿como se define "la linea" (el clasificador) de regresion lineal?
+    * (X) z = x * w + b
+    * (*) y = W * x + b
+    * (X) y = x * W + b
+    
+  39. Permite obtener la probabilidad para cada clase, de tal manera que la suma de ellas sea 1:
+    * (X) sigmoid
+    * (X) algoritmo
+    * (*) Softmax
+    
+  40. ¿Si usamos la llamada get_shape() que forma del tensor nos indica?
+    * (*) TensorShape([Dimension(6000),Dimension(784)])
+    * (X) GetShape([Dimension(6000),Dimension(784)])
+    * (X) GetShape([Dimension(784),Dimension(6000)])
+    
+  41. Retorna un valor real de salida entre 0 y 1:
+    * (*) sigmoid
+    * (X) algoritmo
+    * (X) Softmax
 
 
