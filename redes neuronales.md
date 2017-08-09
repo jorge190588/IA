@@ -242,5 +242,11 @@
     * (*) sigmoid
     * (X) algoritmo
     * (X) Softmax
+    
+  42. ¿Como se importa el directorio de trabajo en que va a programar la red neuronal con TensorFlow?
+    * (*) import input_data
+          mnist = input_data.read_data_sets("MNIST_data/", one_hot=True)
+    * (X) mnist = input_data.read_data_sets("MNIST_data/", one_hot=True)
+    * (X) import input_data
 
 
