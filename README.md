@@ -1,4 +1,4 @@
-# INTELLIGENCE ARTIFICIAL IA
+# INTELLIGENCE ARTIFICIAL (IA)
 
 ## DOCUMENTATION
 
@@ -17,10 +17,6 @@
 * [TensorFlow Board usage](http://ischlag.github.io/2016/06/04/how-to-use-tensorboard/)
 
 ## TOOLS
-
-* [Jupyter](http://jupyter.org)
-* [Jupyter notebook video](https://www.youtube.com/watch?v=q_BzsPxwLOE)
-* [Jypyter notebook documentation](http://jupyter.readthedocs.io/en/latest/install.html)
 * [Python](https://www.python.org/)
 * [Docker](https://www.docker.com/)
 * [TensorFlow](https://www.tensorflow.org)
@@ -30,6 +26,12 @@
 * [Google Cloud Vision](https://cloud.google.com/vision/)
 * [Google Cloud vision with nodejs](https://www.npmjs.com/package/@google-cloud/vision)
 * [The R Project for Statistical Computing](https://www.r-project.org/), [r examples](http://www.rexamples.com/5/Guess%20a%20random%20number%20game)
+
+### Jupyter
+* [web site](http://jupyter.org)
+* [Jupyter notebook video](https://www.youtube.com/watch?v=q_BzsPxwLOE)
+* [Jupyter notebook documentation](http://jupyter.readthedocs.io/en/latest/install.html)
+* [JUse Jupyter to get Stock Data (Real time)](https://www.youtube.com/watch?v=szxFg1RFpTg)
 
 
 ## NEWS
