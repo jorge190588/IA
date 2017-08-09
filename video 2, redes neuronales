@@ -44,5 +44,29 @@
 .(x)  prediccion = modelo.predictivo(maximo)
 .(x)  prediction = np.argumentomaximo(salida)
 
-
-¿Como implementar Apis en TensorFlow?
+8. ¿Que es MNIST?
+  .(ok) esta formado por imagenes en blanco y negro digitos hechos a mano.
+  .(x) permite obtener la probabilidad de cada clase
+  .(x) incluye reconocimiento de patrones y se empieza a crear un modelo.
+  
+ 9. ¿Que es Deep Learning?
+   .(x) esta formado por imagenes en blanco y negro digitos hechos a mano.
+  .(x) permite obtener la probabilidad de cada clase
+  .(ok) incluye reconocimiento de patrones y se empieza a crear un modelo de reconocimiento de numeros escritos a mano
+  
+  10. ¿Para que sirve la herramienta Potly?
+    .(x) para crear grafos
+    .(ok) para graficar las imagenes
+    .(x) creacion de matrices
+    
+  11. ¿Que significa docker?
+    .(ok) es un proyecto de codigo abierto con el que facilmente podremos crear "contenedores".
+    .(x) permite obtener la probabilidad de cada clase
+    .(x) Una biblioteca de código abierto desarrollada por google que se basa en un sistema de redes neuronales.
+    
+   12. ¿Que es phyton?
+    .(x) Lenguaje que aprende y enseña
+    .(ok) Es un lenguaje interpretado, usa tipado dinámico y es multiplataforma.
+    .(x) Para las categorías mutuamente excluyentes y asi mejorar el aprendizaje.
+    
+    
