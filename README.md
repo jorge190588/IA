@@ -27,6 +27,9 @@
 * [Google Cloud vision with nodejs](https://www.npmjs.com/package/@google-cloud/vision)
 * [The R Project for Statistical Computing](https://www.r-project.org/), [r examples](http://www.rexamples.com/5/Guess%20a%20random%20number%20game)
 
+### TensorBoard
+* [Tensorboard Explained in 5 Min](https://www.youtube.com/watch?v=3bownM3L5zM)
+
 ### Jupyter
 * [web site](http://jupyter.org)
 * [What is Jupyter Notebook? video](https://www.youtube.com/watch?v=q_BzsPxwLOE)
