@@ -38,6 +38,12 @@
 * [JUse Jupyter to get Stock Data (Real time)](https://www.youtube.com/watch?v=szxFg1RFpTg)
 * [Awesome data visualization tools in Python](https://www.youtube.com/watch?v=OC-YdBz8Llw)
 
+### TensorFire
+* [Machine learning comes to your browser via JavaScript](http://www.infoworld.com/article/3212884/machine-learning/machine-learning-comes-to-your-browser-via-javascript.html)
+* [Web Site](https://tenso.rs/)
+* [Video](https://www.youtube.com/watch?v=omadDmoinrc)
+* [Keras-js library and demos](https://github.com/transcranial/keras-js), [basic demo](https://transcranial.github.io/keras-js/#/mnist-cnn)
+
 ## NEWS
 * [Object recognition](https://elpais.com/tecnologia/2016/07/06/actualidad/1467806590_243406.html)
 * [Elon Musk -superhumans](http://www.infobae.com/tendencias/innovacion/2017/06/10/la-nueva-startup-de-elon-musk-que-promete-convertir-a-los-humanos-en-superhombres/)
