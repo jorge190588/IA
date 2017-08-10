@@ -44,6 +44,9 @@
 * [Video](https://www.youtube.com/watch?v=omadDmoinrc)
 * [Keras-js library and demos](https://github.com/transcranial/keras-js), [basic demo](https://transcranial.github.io/keras-js/#/mnist-cnn)
 
+### Libraries
+* [Caffe demo](https://github.com/Banus/caffe-demo)
+
 ## NEWS
 * [Object recognition](https://elpais.com/tecnologia/2016/07/06/actualidad/1467806590_243406.html)
 * [Elon Musk -superhumans](http://www.infobae.com/tendencias/innovacion/2017/06/10/la-nueva-startup-de-elon-musk-que-promete-convertir-a-los-humanos-en-superhombres/)
