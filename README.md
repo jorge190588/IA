@@ -15,6 +15,7 @@
 * [Principianates](http://www.p.valienteverde.com/tensorflow-tutorial-basico/)
 * [TensorFlow awesome](https://github.com/jtoy/awesome-tensorflow)
 * [TensorFlow Board usage](http://ischlag.github.io/2016/06/04/how-to-use-tensorboard/)
+* [Deep Image Matting](https://arxiv.org/pdf/1703.03872.pdf)
 
 ## TOOLS
 * [Python](https://www.python.org/)
