@@ -3,7 +3,7 @@ MAINTAINER Jorge Santos
 
 RUN apt-get update 
 RUN apt-get install -y git
-
+RUN apt-get install python-matplotlib -y 
 RUN pip install pandas
 RUN pip install plotly
 RUN pip install tflearn
@@ -13,4 +13,4 @@ EXPOSE 6006
 EXPOSE 8886 
 EXPOSE 8888
 ENTRYPOINT /bin/bash
-
+tensorboard --logdir=run1:/tmp/tensorflow_logs/neurona/ --port 6006
