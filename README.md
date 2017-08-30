@@ -55,6 +55,7 @@
  * [Ozlo is adquired by facebook](https://www.recode.net/2017/7/31/16071646/facebook-acquisition-ozlo-artificial-intelligence-ai-messenger-personal-assistant)
  * [Gamalon - Teorema de bayes](https://www.unocero.com/noticias/ciencia/inteligencia-artificial-como-la-de-los-humanos/)
  * [Gamalon - sistemas de IA basados en la probabilidad](http://omicrono.elespanol.com/2017/02/empresas-con-menos-recursos-hacer-uso-de-la-ia/) 
+ * [Amarillismo en la inteligencia artificial](http://devongt.blogspot.com/2017/08/amarillismo-en-la-inteligencia.html)
 
 # PROYECTOS
 * [Red neuronal convolucional(con dropout) usando notMNIST dataset(reconocimiento de imagenes)](https://github.com/llealgt/google_machine_learning_nanodegree_deep_learning/blob/master/4_convolutions.ipynb)
