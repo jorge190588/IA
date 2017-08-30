@@ -54,6 +54,7 @@
 * [Estas son las mejores universidades de América Latina en 2017 (y cuáles son los 4 países que se destacan)](http://www.msn.com/es-xl/noticias/sociedad/estas-son-las-mejores-universidades-de-am%c3%a9rica-latina-en-2017-y-cu%c3%a1les-son-los-4-pa%c3%adses-que-se-destacan/ar-AAou8W6?li=AAgh0dF&ocid=U453DHP)
  * [Ozlo is adquired by facebook](https://www.recode.net/2017/7/31/16071646/facebook-acquisition-ozlo-artificial-intelligence-ai-messenger-personal-assistant)
  * [Gamalon - Teorema de bayes](https://www.unocero.com/noticias/ciencia/inteligencia-artificial-como-la-de-los-humanos/)
+ * [Gamalon - sistemas de IA basados en la probabilidad](http://omicrono.elespanol.com/2017/02/empresas-con-menos-recursos-hacer-uso-de-la-ia/) 
 
 # PROYECTOS
 * [Red neuronal convolucional(con dropout) usando notMNIST dataset(reconocimiento de imagenes)](https://github.com/llealgt/google_machine_learning_nanodegree_deep_learning/blob/master/4_convolutions.ipynb)
