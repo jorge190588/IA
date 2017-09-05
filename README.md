@@ -18,6 +18,12 @@
 * [Deep Image Matting](https://arxiv.org/pdf/1703.03872.pdf)
 * [TensorFlow y Redes Neuronales](https://relopezbriega.github.io/blog/2016/06/05/tensorflow-y-redes-neuronales/)
 
+## MNIST 
+* [What's an MNIST - Video](https://www.youtube.com/watch?v=iQdWX1327XQ&index=31&list=PLsn4s6AtgL4iJ6sk9ws-OVk2pd20hDVHt)
+* [Not another MNIST tutorial with TensorFlow](https://www.oreilly.com/learning/not-another-mnist-tutorial-with-tensorflow)
+* [Reconocimiento de dígitos mediante machine learning con TensorFlow y Python](http://ssalva.bitballoon.com/blog/2016-08-30-tensorflow/)
+* [Image recognition with TensorFlow](https://joomik.github.io/MNIST/)
+
 ## TOOLS
 * [Python](https://www.python.org/)
 * [Docker](https://www.docker.com/)
