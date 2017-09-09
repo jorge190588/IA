@@ -23,7 +23,7 @@
 * [Not another MNIST tutorial with TensorFlow](https://www.oreilly.com/learning/not-another-mnist-tutorial-with-tensorflow)
 * [Reconocimiento de dígitos mediante machine learning con TensorFlow y Python](http://ssalva.bitballoon.com/blog/2016-08-30-tensorflow/)
 * [Image recognition with TensorFlow](https://joomik.github.io/MNIST/)
-* [Puetes de Imagenes dataset CIFAR-10, dataset CIFAR-100, dataset SVHN, Imagenet](http://jorditorres.org/research-teaching/tensorflow/libro-hello-world-en-tensorflow/)
+* [Puetes de Imagenes dataset CIFAR-10, dataset CIFAR-100, dataset SVHN, Imagenet](http://jorditorres.org/introduccion-practica-al-deep-learning-con-tensorflow-de-google-parte-3/)
 
 
 ## TOOLS
