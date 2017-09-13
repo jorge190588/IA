@@ -24,6 +24,7 @@
 * [Reconocimiento de dígitos mediante machine learning con TensorFlow y Python](http://ssalva.bitballoon.com/blog/2016-08-30-tensorflow/)
 * [Image recognition with TensorFlow](https://joomik.github.io/MNIST/)
 * [Puetes de Imagenes dataset CIFAR-10, dataset CIFAR-100, dataset SVHN, Imagenet](http://jorditorres.org/introduccion-practica-al-deep-learning-con-tensorflow-de-google-parte-3/)
+* [Dogs and cats dataset with convolutional network](http://cv-tricks.com/tensorflow-tutorial/training-convolutional-neural-network-for-image-classification/), [Dogs and cats dataset url](https://www.kaggle.com/c/dogs-vs-cats/data)
 
 
 ## TOOLS
