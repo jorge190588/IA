@@ -17,6 +17,7 @@
 * [TensorFlow Board usage](http://ischlag.github.io/2016/06/04/how-to-use-tensorboard/)
 * [Deep Image Matting](https://arxiv.org/pdf/1703.03872.pdf)
 * [TensorFlow y Redes Neuronales](https://relopezbriega.github.io/blog/2016/06/05/tensorflow-y-redes-neuronales/)
+* [Variables - placeholders](https://learningtensorflow.com/lesson4/)
 
 ## MNIST y otros paquetes de imagenes 
 * [What's an MNIST - Video](https://www.youtube.com/watch?v=iQdWX1327XQ&index=31&list=PLsn4s6AtgL4iJ6sk9ws-OVk2pd20hDVHt)
