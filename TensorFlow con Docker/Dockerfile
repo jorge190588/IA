@@ -9,7 +9,7 @@ RUN pip install pandas
 RUN pip install plotly
 RUN pip install tflearn
 RUN pip install asq
-RUN tensorboard --logdir=run1:/tmp/tensorflow_logs/neurona/ --port 6006
+#RUN tensorboard --logdir=run1:/tmp/tensorflow_logs/neurona/ --port 6006
 
 RUN wget -r -A pdf,jpg http://images.all-free-download.com/images/graphicthumb/fresh_red_apple_stock_photo_167147.jpg
 

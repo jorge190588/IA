@@ -10,19 +10,25 @@
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 * [Video tutorial - Comenzando](https://nicolasbortolotti.gitbooks.io/tensorflow-documentacion/content/)
 * [Tutorial](http://jorditorres.org/introduccion-practica-al-deep-learning-con-tensorflow-de-google-parte-1/)
-* [Tutorial en español](http://jorditorres.org/libro-hello-world-en-tensorflow/)
+* [Tutorial en español - Hello world con tensorFlow Resumen](http://jorditorres.org/libro-hello-world-en-tensorflow/)
+* [Tutorial en español - Hello world con tensorFlow Libro](https://books.google.com.gt/books?id=zJl3CwAAQBAJ&pg=PA34&lpg=PA34&dq=tensorflow+tf.matmul+ejemplo&source=bl&ots=VdKhrnTsE0&sig=wRbwzj6EFdzb4d7J3IY133446cA&hl=es-419&sa=X&ved=0ahUKEwj0iYHRhbnWAhWDOiYKHdZCBakQ6AEIPjAE#v=onepage&q=tensorflow%20tf.matmul%20ejemplo&f=false)
 * [TensorFlow.org tutorial](https://www.tensorflow.org/get_started/mnist/mechanics)
 * [Principianates](http://www.p.valienteverde.com/tensorflow-tutorial-basico/)
 * [TensorFlow awesome](https://github.com/jtoy/awesome-tensorflow)
 * [TensorFlow Board usage](http://ischlag.github.io/2016/06/04/how-to-use-tensorboard/)
 * [Deep Image Matting](https://arxiv.org/pdf/1703.03872.pdf)
 * [TensorFlow y Redes Neuronales](https://relopezbriega.github.io/blog/2016/06/05/tensorflow-y-redes-neuronales/)
+* [Variables - placeholders](https://learningtensorflow.com/lesson4/)
 
-## MNIST 
+## MNIST y otros paquetes de imagenes 
 * [What's an MNIST - Video](https://www.youtube.com/watch?v=iQdWX1327XQ&index=31&list=PLsn4s6AtgL4iJ6sk9ws-OVk2pd20hDVHt)
 * [Not another MNIST tutorial with TensorFlow](https://www.oreilly.com/learning/not-another-mnist-tutorial-with-tensorflow)
 * [Reconocimiento de dígitos mediante machine learning con TensorFlow y Python](http://ssalva.bitballoon.com/blog/2016-08-30-tensorflow/)
 * [Image recognition with TensorFlow](https://joomik.github.io/MNIST/)
+* [Puetes de Imagenes dataset CIFAR-10, dataset CIFAR-100, dataset SVHN, Imagenet](http://jorditorres.org/introduccion-practica-al-deep-learning-con-tensorflow-de-google-parte-3/)
+* [Dogs and cats dataset with convolutional network](http://cv-tricks.com/tensorflow-tutorial/training-convolutional-neural-network-for-image-classification/), [Dogs and cats dataset url](https://www.kaggle.com/c/dogs-vs-cats/data)
+* [Image tutorial with matplotlib](https://matplotlib.org/users/image_tutorial.html)
+
 
 ## TOOLS
 * [Python](https://www.python.org/)
@@ -68,7 +74,7 @@
 * [Red neuronal convolucional usando Cifar10 dataset(reconocimeinto de imagenes)](https://github.com/llealgt/CIFAR_10_Convolutional_neural_network)
 * [Transfer learning(uso de red preentrenada, sustituyendo las ultimas capas) utilizando arquitectura vgg16](https://github.com/llealgt/Tensorflow_transfer_learning)
 * [Reconocimiento de imágenes para usuarios de la convencion](https://drive.google.com/file/d/0B9UrV6uCiXGJODhUcENfcnhKdnM/view)
-* [Reconocimiento de Voz Veronica](https://drive.google.com/open?id=0B79nSJbWXueEby1kV1ZtRm9rZ0k)
+* [Reconocimiento de Voz Veronica](https://drive.google.com/open?id=0B79nSJbWXueEby1kV1ZtRm9rZ0kk)
 * [Reconocimiento de imágenes/voz ( Maitée, Thelma)](https://drive.google.com/drive/u/1/folders/0ByLHSp4ns4YvS0hnRl9mMTR5b28)
 * [Inspector de frutas y verduras "InspectoFruver" ( Esvin, Douglas)](https://drive.google.com/open?id=0B_FnLL69bwhMMXpNU2RtUWRTcVk)
 * [Reconocimiento de rostros "DetecFace" ( Gerson, Fredy)](https://drive.google.com/open?id=0B8CA4oaJskMrTGhJeTRSeDQyTE0)
