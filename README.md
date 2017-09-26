@@ -29,6 +29,8 @@
 * [Dogs and cats dataset with convolutional network](http://cv-tricks.com/tensorflow-tutorial/training-convolutional-neural-network-for-image-classification/), [Dogs and cats dataset url](https://www.kaggle.com/c/dogs-vs-cats/data)
 * [Image tutorial with matplotlib](https://matplotlib.org/users/image_tutorial.html)
 
+## EXAMPLES
+ * [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples)
 
 ## TOOLS
 * [Python](https://www.python.org/)
