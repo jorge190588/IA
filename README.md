@@ -1,7 +1,3 @@
-# LINNK DE CONFERENCIA
-https://hangouts.google.com/call/EDXJgJD5UGxTEQ8Zg7YBAAEE
-repositorio: https://github.com/llealgt/Talleres_Conferencias_UMG/tree/master/Taller1
-
 # INTELLIGENCE ARTIFICIAL (IA)
 
 ## DOCUMENTATION
@@ -86,7 +82,8 @@ repositorio: https://github.com/llealgt/Talleres_Conferencias_UMG/tree/master/Ta
 * [Inspector de frutas y verduras "InspectoFruver" ( Esvin, Douglas)](https://drive.google.com/open?id=0B_FnLL69bwhMMXpNU2RtUWRTcVk)
 * [Reconocimiento de rostros "DetecFace" ( Gerson, Fredy)](https://drive.google.com/open?id=0B8CA4oaJskMrTGhJeTRSeDQyTE0)
 
-
+# CONFERENCIAS
+* [Crear un paquete de imagenes y usarlo en un proyecto - Luis Leal (27/08/2017)](https://github.com/llealgt/Talleres_Conferencias_UMG/tree/master/Taller1)
 
 # VIDEOS
 ## 1. [Demostración de Deep Learning con TensorFlow](https://www.youtube.com/watch?v=UYttzdEc1OI&t=2585s&list=PLsn4s6AtgL4iJ6sk9ws-OVk2pd20hDVHt&index=9)
@@ -99,3 +96,5 @@ repositorio: https://github.com/llealgt/Talleres_Conferencias_UMG/tree/master/Ta
 * Kevin y Carlos
 * Jimmy
 * Freddy
+
+
