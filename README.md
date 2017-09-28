@@ -1,5 +1,6 @@
 # LINNK DE CONFERENCIA
 https://hangouts.google.com/call/EDXJgJD5UGxTEQ8Zg7YBAAEE
+repositorio: https://github.com/llealgt/Talleres_Conferencias_UMG/tree/master/Taller1
 
 # INTELLIGENCE ARTIFICIAL (IA)
 
