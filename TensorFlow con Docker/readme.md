@@ -6,7 +6,7 @@ docker build -t tensorflowdemo:1.0 .
 
 ## 2. Crear un contenedor o mini-pc a partir de la imagen anterior
 
-docker run -p 8888:8888 p- 6006:6006 p- 8886:8886 --name tensorflowdemo -it tensorflowdemo:1.0
+docker run -p 8888:8888 -p 6006:6006 -p 8886:8886 --name tensorflowdemo -it tensorflowdemo:1.0
 
 ## Iniciar Jupyter dentro del contenedor (Consola No 1)
 
