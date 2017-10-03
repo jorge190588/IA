@@ -71,7 +71,7 @@
  * [Gamalon - Teorema de bayes](https://www.unocero.com/noticias/ciencia/inteligencia-artificial-como-la-de-los-humanos/)
  * [Gamalon - sistemas de IA basados en la probabilidad](http://omicrono.elespanol.com/2017/02/empresas-con-menos-recursos-hacer-uso-de-la-ia/) 
  * [Amarillismo en la inteligencia artificial](http://devongt.blogspot.com/2017/08/amarillismo-en-la-inteligencia.html)
-
+* [Mastercard lanza una herramienta de IA que previene el fraude](http://www.ticbeat.com/seguridad/mastercard-lanza-una-herramienta-de-ia-que-previene-el-fraude-bancario/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BOMZDPjPiRsiRR8mTNnEn0Q%3D%3D)
 # PROYECTOS
 * [Red neuronal convolucional(con dropout) usando notMNIST dataset(reconocimiento de imagenes)](https://github.com/llealgt/google_machine_learning_nanodegree_deep_learning/blob/master/4_convolutions.ipynb)
 * [Red neuronal convolucional usando Cifar10 dataset(reconocimeinto de imagenes)](https://github.com/llealgt/CIFAR_10_Convolutional_neural_network)
