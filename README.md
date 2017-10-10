@@ -31,7 +31,8 @@
 
 ## EXAMPLES
  * [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples)
-
+ * [Erick Ramirez Examples](https://github.com/Erickramirez/)
+ 
 ## TOOLS
 * [Python](https://www.python.org/)
 * [Docker](https://www.docker.com/)
