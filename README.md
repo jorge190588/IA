@@ -43,7 +43,8 @@
 * [Google Cloud Vision](https://cloud.google.com/vision/)
 * [Google Cloud vision with nodejs](https://www.npmjs.com/package/@google-cloud/vision)
 * [The R Project for Statistical Computing](https://www.r-project.org/), [r examples](http://www.rexamples.com/5/Guess%20a%20random%20number%20game)
-* [tensor-flow online](https://codeenv.com/env/codeenv/14/tensor-flow/)
+* [Tensor-flow online](https://codeenv.com/env/codeenv/14/tensor-flow/)
+* [Jupyter notebook editor online](https://cocalc.com)
 
 ### TensorBoard
 * [Tensorboard Explained in 5 Min](https://www.youtube.com/watch?v=3bownM3L5zM)
