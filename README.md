@@ -20,6 +20,9 @@
 * [TensorFlow y Redes Neuronales](https://relopezbriega.github.io/blog/2016/06/05/tensorflow-y-redes-neuronales/)
 * [Variables - placeholders](https://learningtensorflow.com/lesson4/)
 
+### Convolutional Neural Network
+* [Undrestanding Convolutional Layers in Convolutional Neural Networks (CNNs)](http://machinelearninguru.com/computer_vision/basics/convolution/convolution_layer.html)
+
 ## MNIST y otros paquetes de imagenes 
 * [What's an MNIST - Video](https://www.youtube.com/watch?v=iQdWX1327XQ&index=31&list=PLsn4s6AtgL4iJ6sk9ws-OVk2pd20hDVHt)
 * [Not another MNIST tutorial with TensorFlow](https://www.oreilly.com/learning/not-another-mnist-tutorial-with-tensorflow)
