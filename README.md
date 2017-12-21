@@ -24,6 +24,7 @@
 * [Undrestanding Convolutional Layers in Convolutional Neural Networks (CNNs)](http://machinelearninguru.com/computer_vision/basics/convolution/convolution_layer.html)
 * [Image Filtering](http://machinelearninguru.com/computer_vision/basics/convolution/image_convolution_1.html)
 * [What is max pooling in convolutional neural networks?](https://www.quora.com/What-is-max-pooling-in-convolutional-neural-networks)
+* [image processing](https://en.wikipedia.org/wiki/Kernel_(image_processing))
 
 ## MNIST y otros paquetes de imagenes 
 * [What's an MNIST - Video](https://www.youtube.com/watch?v=iQdWX1327XQ&index=31&list=PLsn4s6AtgL4iJ6sk9ws-OVk2pd20hDVHt)
