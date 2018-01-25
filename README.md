@@ -71,6 +71,9 @@
 ### Libraries
 * [Caffe demo](https://github.com/Banus/caffe-demo)
 
+### Debug
+* [A Practical Guide for Debugging TensorFlow Codes](https://wookayin.github.io/tensorflow-talk-debugging/)
+
 ## ARTICLES
 * [Most Downloaded Artificial Intelligence Articles](https://www.journals.elsevier.com/artificial-intelligence/most-downloaded-articles)
 
