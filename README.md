@@ -26,6 +26,9 @@
 * [What is max pooling in convolutional neural networks?](https://www.quora.com/What-is-max-pooling-in-convolutional-neural-networks)
 * [image processing](https://en.wikipedia.org/wiki/Kernel_(image_processing))
 
+## Music with machine learning
+* [Make Music and Art Using Machine Learning](https://magenta.tensorflow.org/)
+
 ## MNIST y otros paquetes de imagenes 
 * [What's an MNIST - Video](https://www.youtube.com/watch?v=iQdWX1327XQ&index=31&list=PLsn4s6AtgL4iJ6sk9ws-OVk2pd20hDVHt)
 * [Not another MNIST tutorial with TensorFlow](https://www.oreilly.com/learning/not-another-mnist-tutorial-with-tensorflow)
