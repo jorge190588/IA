@@ -20,6 +20,9 @@
 * [TensorFlow y Redes Neuronales](https://relopezbriega.github.io/blog/2016/06/05/tensorflow-y-redes-neuronales/)
 * [Variables - placeholders](https://learningtensorflow.com/lesson4/)
 
+## Machine Learning
+* [Scikit learn library](http://scikit-learn.org)
+
 ### Convolutional Neural Network
 * [Undrestanding Convolutional Layers in Convolutional Neural Networks (CNNs)](http://machinelearninguru.com/computer_vision/basics/convolution/convolution_layer.html)
 * [Image Filtering](http://machinelearninguru.com/computer_vision/basics/convolution/image_convolution_1.html)
