@@ -63,6 +63,8 @@
 * [The R Project for Statistical Computing](https://www.r-project.org/), [r examples](http://www.rexamples.com/5/Guess%20a%20random%20number%20game)
 * [Tensor-flow online](https://codeenv.com/env/codeenv/14/tensor-flow/)
 * [Jupyter notebook editor online](https://cocalc.com)
+* [Pycharm editor](https://www.jetbrains.com/pycharm/)
+* [Visual Studio Code editor](https://code.visualstudio.com/)
 
 ### TensorBoard
 * [Tensorboard Explained in 5 Min](https://www.youtube.com/watch?v=3bownM3L5zM)
