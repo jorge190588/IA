@@ -41,8 +41,11 @@
 * [Reconocimiento de dígitos mediante machine learning con TensorFlow y Python](http://ssalva.bitballoon.com/blog/2016-08-30-tensorflow/)
 * [Image recognition with TensorFlow](https://joomik.github.io/MNIST/)
 * [Puetes de Imagenes dataset CIFAR-10, dataset CIFAR-100, dataset SVHN, Imagenet](http://jorditorres.org/introduccion-practica-al-deep-learning-con-tensorflow-de-google-parte-3/)
-* [Dogs and cats dataset with convolutional network](http://cv-tricks.com/tensorflow-tutorial/training-convolutional-neural-network-for-image-classification/), [Dogs and cats dataset url](https://www.kaggle.com/c/dogs-vs-cats/data), [Complete code](https://github.com/sankit1/cv-tricks.com/tree/master/Tensorflow-tutorials/tutorial-2-image-classifier)
 * [Image tutorial with matplotlib](https://matplotlib.org/users/image_tutorial.html)
+
+### Cats and Dogs project
+* [Dogs and cats dataset with convolutional network](http://cv-tricks.com/tensorflow-tutorial/training-convolutional-neural-network-for-image-classification/), [Dogs and cats dataset url](https://www.kaggle.com/c/dogs-vs-cats/data), [Complete code](https://github.com/sankit1/cv-tricks.com/tree/master/Tensorflow-tutorials/tutorial-2-image-classifier)
+* [Show cats and dogs in RGB](https://www.datasciencecentral.com/profiles/blogs/dogs-vs-cats-image-classification-with-deep-learning-using)
 
 ## EXAMPLES
  * [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples)
