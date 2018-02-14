@@ -69,7 +69,8 @@
 ### TensorBoard
 * [Tensorboard Explained in 5 Min](https://www.youtube.com/watch?v=3bownM3L5zM)
 * [Visualizing convolutional neural networks](https://www.oreilly.com/ideas/visualizing-convolutional-neural-networks)
-* [Example](https://stackoverflow.com/questions/41482913/module-object-has-no-attribute-summarywriter)
+* [Example 1](https://stackoverflow.com/questions/41482913/module-object-has-no-attribute-summarywriter)
+* [Visualization](https://learningtensorflow.com/Visualisation/)
 
 ### Jupyter
 * [web site](http://jupyter.org)
