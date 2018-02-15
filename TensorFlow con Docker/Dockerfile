@@ -11,8 +11,7 @@ RUN pip install tflearn
 RUN pip install asq
 # RUN apt-get install python3-matplotlib
 # RUN apt-get install python-matplotlib
-
-COPY imagenes imagenes
+RUN pip install tensorflow --upgrade
 
 EXPOSE 6006 
 EXPOSE 8886 

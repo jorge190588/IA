@@ -1,9 +1,0 @@
-version: '3'
-
-services:
-	jupyter:
-		build: ./
-		volumnes:
-			- .:/notebooks
-		ports:
-			- "8888:8888"

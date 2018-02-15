@@ -47,3 +47,7 @@ Si requiere descargar imagenes para probar los ejemplos, puede utilizar los sigu
 Borrar todos los contenedores
 
 * docker rm $(docker ps -q -f status=exited)
+
+## Debugging python into Visual Studio Code
+
+* [Debug](https://code.visualstudio.com/docs/python/debugging)
