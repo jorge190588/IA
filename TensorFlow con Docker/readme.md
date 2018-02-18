@@ -1,5 +1,11 @@
 # Pasos para iniciar TensorBoard y Jupyter
 
+Jypyter es un servidor web utilizado para ejecutar sentencias de python y las funciones de tensorflow.
+
+Para ejecutarlos comandos de docker debe abrir el programa "Docker Quickstart Terminal", por medio de comandos debe acceder a la carpeta "TensorFlow con Docker" que esta en el repositorio.
+
+A continuacion encontrara los comandos ultilizados para crear la imagen de docker y el contenedor que incluye las herramientas necesarias para utilizar jupyter y tensorboard.
+
 ## 1. Construir la imagen de docker
 
 docker build -t tensorflowdemo:1.0 .

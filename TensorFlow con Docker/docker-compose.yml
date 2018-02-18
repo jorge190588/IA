@@ -1,11 +1,11 @@
 version: '3'
-
 services:
-	jupyter:
-		build: ./
-		volumnes:
-			- .:/notebooks
-		ports:
-			- "8888:8888"
-			- "6006:6006"
-			- "8886:8886"
+ jupyter:
+  image: tf
+  build: .
+  volumes:
+   - .:/notebooks
+  ports:
+   - "8888:8888"
+   - "6006:6006"
+   - "8886:8886"

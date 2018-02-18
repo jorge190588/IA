@@ -16,4 +16,4 @@ RUN pip install tensorflow --upgrade
 EXPOSE 6006 
 EXPOSE 8886 
 EXPOSE 8888
-ENTRYPOINT /bin/bash
+ENTRYPOINT "jupyter notebook" /bin/bash
