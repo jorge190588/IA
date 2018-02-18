@@ -2,9 +2,10 @@ version: '3'
 services:
  jupyter:
   image: tf
+  container_name: jupyter
   build: .
   volumes:
-   - .:/notebooks
+   - /files:/notebooks
   ports:
    - "8888:8888"
    - "6006:6006"
