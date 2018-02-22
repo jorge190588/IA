@@ -8,118 +8,64 @@ import os
 import glob
 from sklearn.utils import shuffle
 import numpy as np
-print("done")
+import ConjuntoDeImagenes 
 
-def cargarDatosDeEntrenamiento(train_path, image_size, classes):
-    images = []
-    labels = []
-    img_names = []
-    cls = []
+def cargarDatosDeEntrenamiento(rutaDeDatos, tamanoDeImagenes, clases):
+  imagenes = []
+  etiquetas = []
+  nombreDeImagenes = []
+  grupoDeImagenes = []
+  
+  for clase in clases:
+    indiceDeClase = clases.index(clase)
+    print('Now going to read {} files (indiceDeClase: {})'.format(clase, indiceDeClase))
+    #rutaDeDatosDeEntrenamiento = os.path.join(rutaDeDatos, clase, '*g')
+    rutaDeDatosDeEntrenamiento=os.path.join(rutaDeDatos,clase+'.*.jpg')
+    listaDeArchivos = glob.glob(rutaDeDatosDeEntrenamiento)
+    for archivo in listaDeArchivos[0:10]:
+      imagen = cv2.imread(archivo)
+      imagen = cv2.resize(imagen, (tamanoDeImagenes, tamanoDeImagenes),0,0, cv2.INTER_LINEAR)
+      imagen = imagen.astype(np.float32)
+      imagen = np.multiply(imagen, 1.0 / 255.0)
+      imagenes.append(imagen)
 
-    print('Going to read training images')
-    for fields in classes:
-        index = classes.index(fields)
-        print('Now going to read {} files (Index: {})'.format(fields, index))
-        path = os.path.join(train_path, fields, '*g')
-        files = glob.glob(path)
-        for fl in files:
-            image = cv2.imread(fl)
-            image = cv2.resize(image, (image_size, image_size),0,0, cv2.INTER_LINEAR)
-            image = image.astype(np.float32)
-            image = np.multiply(image, 1.0 / 255.0)
-            images.append(image)
-            label = np.zeros(len(classes))
-            label[index] = 1.0
-            labels.append(label)
-            flbase = os.path.basename(fl)
-            img_names.append(flbase)
-            cls.append(fields)
-    images = np.array(images)
-    labels = np.array(labels)
-    img_names = np.array(img_names)
-    cls = np.array(cls)
+      etiqueta = np.zeros(len(clases))
+      etiqueta[indiceDeClase] = 1.0
+      etiquetas.append(etiqueta)
 
-    return images, labels, img_names, cls
+      nombreDeImagen = os.path.basename(archivo)
+      nombreDeImagenes.append(nombreDeImagen)
+      grupoDeImagenes.append(clase)
+  imagenes = np.array(imagenes)
+  etiquetas = np.array(etiquetas)
+  nombreDeImagenes = np.array(nombreDeImagenes)
+  grupoDeImagenes = np.array(grupoDeImagenes)
 
-
-class ConjuntoDeDatos(object):
-  """ contructor de la clase """
-  def __init__(self, images, labels, img_names, cls):
-    self._num_examples = images.shape[0]
-
-    self._images = images
-    self._labels = labels
-    self._img_names = img_names
-    self._cls = cls
-    self._epochs_done = 0
-    self._index_in_epoch = 0
-
-  @property
-  def images(self):
-    return self._images
-
-  @property
-  def labels(self):
-    return self._labels
-
-  @property
-  def img_names(self):
-    return self._img_names
-
-  @property
-  def cls(self):
-    return self._cls
-
-  @property
-  def num_examples(self):
-    return self._num_examples
-
-  @property
-  def epochs_done(self):
-    return self._epochs_done
-
-  def siguienteLote(self, batch_size):
-    """Return the next `batch_size` examples from this data set."""
-
-    start = self._index_in_epoch
-    self._index_in_epoch += batch_size
-
-    if self._index_in_epoch > self._num_examples:
-      # After each epoch we update this
-      self._epochs_done += 1
-      start = 0
-      self._index_in_epoch = batch_size
-      assert batch_size <= self._num_examples
-
-    end = self._index_in_epoch
-
-    print("next_batch, start: "+str(start)+", end: "+str(end))
-
-    return self._images[start:end], self._labels[start:end], self._img_names[start:end], self._cls[start:end]
+  return imagenes, etiquetas, nombreDeImagenes, grupoDeImagenes
 
 
-def leerDatosDeEntrenamiento(train_path, image_size, classes, validation_size):
+def leerDatosDeEntrenamiento(rutaDeDatosDeEntrenamiento, tamanoDeImagenes, clases, tamanoDeDataDeValidacion):
   class DataSets(object):
     pass
-  data_sets = DataSets()
+  resultadoDeImagenes = DataSets()
 
-  images, labels, img_names, cls = cargarDatosDeEntrenamiento(train_path, image_size, classes)
-  images, labels, img_names, cls = shuffle(images, labels, img_names, cls)
+  imagenes, etiquetasDeImagenes, nombreDeImagenes, grupoDeImagenes = cargarDatosDeEntrenamiento(rutaDeDatosDeEntrenamiento, tamanoDeImagenes, clases)
+  imagenes, etiquetasDeImagenes, nombreDeImagenes, grupoDeImagenes = shuffle(imagenes, etiquetasDeImagenes, nombreDeImagenes, grupoDeImagenes)
 
-  if isinstance(validation_size, float):
-    validation_size = int(validation_size * images.shape[0])
+  if isinstance(tamanoDeDataDeValidacion, float):
+    tamanoDeDataDeValidacion = int(tamanoDeDataDeValidacion * imagenes.shape[0])
 
-  validation_images = images[:validation_size]
-  validation_labels = labels[:validation_size]
-  validation_img_names = img_names[:validation_size]
-  validation_cls = cls[:validation_size]
+  validacion_imagenes = imagenes[:tamanoDeDataDeValidacion]
+  validacion_etiquetas = etiquetasDeImagenes[:tamanoDeDataDeValidacion]
+  validacion_nombres = nombreDeImagenes[:tamanoDeDataDeValidacion]
+  validacion_grupos = grupoDeImagenes[:tamanoDeDataDeValidacion]
 
-  train_images = images[validation_size:]
-  train_labels = labels[validation_size:]
-  train_img_names = img_names[validation_size:]
-  train_cls = cls[validation_size:]
+  entrenamiento_imagenes = imagenes[tamanoDeDataDeValidacion:]
+  entrenamiento_etiquetas = etiquetasDeImagenes[tamanoDeDataDeValidacion:]
+  entrenamiento_nombres = nombreDeImagenes[tamanoDeDataDeValidacion:]
+  entrenamiento_grupos = grupoDeImagenes[tamanoDeDataDeValidacion:]
 
-  data_sets.train = ConjuntoDeDatos(train_images, train_labels, train_img_names, train_cls)
-  data_sets.valid = ConjuntoDeDatos(validation_images, validation_labels, validation_img_names, validation_cls)
+  resultadoDeImagenes.entrenamiento = ConjuntoDeImagenes.ConjuntoDeImagenes(entrenamiento_imagenes, entrenamiento_etiquetas, entrenamiento_nombres, entrenamiento_grupos)
+  resultadoDeImagenes.validacion = ConjuntoDeImagenes.ConjuntoDeImagenes(validacion_imagenes, validacion_etiquetas, validacion_nombres, validacion_grupos)
 
-  return data_sets
+  return resultadoDeImagenes
