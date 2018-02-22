@@ -8,7 +8,6 @@ class ConjuntoDeImagenes(object):
   """ contructor de la clase """
   def __init__(self, imagenes, etiquetas, nombres, clases):
     self._recuento = imagenes.shape[0]
-
     self._imagenes = imagenes
     self._etiquetas = etiquetas
     self._nombres = nombres
