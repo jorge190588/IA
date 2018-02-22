@@ -22,7 +22,7 @@ def cargarDatosDeEntrenamiento(rutaDeDatos, tamanoDeImagenes, clases):
     #rutaDeDatosDeEntrenamiento = os.path.join(rutaDeDatos, clase, '*g')
     rutaDeDatosDeEntrenamiento=os.path.join(rutaDeDatos,clase+'.*.jpg')
     listaDeArchivos = glob.glob(rutaDeDatosDeEntrenamiento)
-    for archivo in listaDeArchivos[0:10]:
+    for archivo in listaDeArchivos[0:96]:
       imagen = cv2.imread(archivo)
       imagen = cv2.resize(imagen, (tamanoDeImagenes, tamanoDeImagenes),0,0, cv2.INTER_LINEAR)
       imagen = imagen.astype(np.float32)

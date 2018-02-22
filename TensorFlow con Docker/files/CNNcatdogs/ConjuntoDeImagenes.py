@@ -51,11 +51,7 @@ class ConjuntoDeImagenes(object):
       self._index_in_epoch = tamanoDeLote
       assert tamanoDeLote <= self._recuento
 
-    findDelLote = self._index_in_epoch
-
+    finDelLote = self._index_in_epoch
     print("siguiente lote, inicio: "+str(inicioDelLote)+", fin: "+str(finDelLote))
 
-    return  self._imagenes[inicioDelLote:findDelLote], 
-            self._etiquetas[inicioDelLote:findDelLote], 
-            self._nombres[inicioDelLote:findDelLote], 
-            self._clases[inicioDelLote:findDelLote]
+    return  self._imagenes[inicioDelLote:finDelLote], self._etiquetas[inicioDelLote:finDelLote], self._nombres[inicioDelLote:finDelLote], self._clases[inicioDelLote:finDelLote]
