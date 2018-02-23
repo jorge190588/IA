@@ -10,6 +10,13 @@ from sklearn.utils import shuffle
 import numpy as np
 import ConjuntoDeImagenes 
 
+def obtenerImagenDesdeRuta(rutaDeImagen,tamanoDeImagenes):
+  imagen = cv2.imread(rutaDeImagen)
+  imagen = cv2.resize(imagen, (tamanoDeImagenes, tamanoDeImagenes),0,0, cv2.INTER_LINEAR)
+  imagen = imagen.astype(np.float32)
+  imagen = np.multiply(imagen, 1.0 / 255.0)
+  return imagen
+
 def cargarDatosDeEntrenamiento(rutaDeDatos, tamanoDeImagenes, clases):
   imagenes = []
   etiquetas = []
@@ -23,10 +30,7 @@ def cargarDatosDeEntrenamiento(rutaDeDatos, tamanoDeImagenes, clases):
     rutaDeDatosDeEntrenamiento=os.path.join(rutaDeDatos,clase+'.*.jpg')
     listaDeArchivos = glob.glob(rutaDeDatosDeEntrenamiento)
     for archivo in listaDeArchivos[0:96]:
-      imagen = cv2.imread(archivo)
-      imagen = cv2.resize(imagen, (tamanoDeImagenes, tamanoDeImagenes),0,0, cv2.INTER_LINEAR)
-      imagen = imagen.astype(np.float32)
-      imagen = np.multiply(imagen, 1.0 / 255.0)
+      imagen =obtenerImagenDesdeRuta(archivo,tamanoDeImagenes)
       imagenes.append(imagen)
 
       etiqueta = np.zeros(len(clases))

@@ -12,8 +12,8 @@ class ConjuntoDeImagenes(object):
     self._etiquetas = etiquetas
     self._nombres = nombres
     self._clases = clases
-    self._epochs_done = 0
-    self._index_in_epoch = 0
+    self._epocasHechas = 0
+    self._indiceDeEpoca = 0
 
   @property
   def imagenes(self):
@@ -36,22 +36,21 @@ class ConjuntoDeImagenes(object):
     return self._recuento
 
   @property
-  def epochs_done(self):
-    return self._epochs_done
+  def epocasHechas(self):
+    return self._epocasHechas
 
   def siguienteLote(self, tamanoDeLote):
 
-    inicioDelLote = self._index_in_epoch
-    self._index_in_epoch += tamanoDeLote
+    inicioDelLote = self._indiceDeEpoca
+    self._indiceDeEpoca += tamanoDeLote
 
-    if self._index_in_epoch > self._recuento:
+    if self._indiceDeEpoca > self._recuento:
       # After each epoch we update this
-      self._epochs_done += 1
+      self._epocasHechas += 1
       inicioDelLote = 0
-      self._index_in_epoch = tamanoDeLote
+      self._indiceDeEpoca = tamanoDeLote
       assert tamanoDeLote <= self._recuento
 
-    finDelLote = self._index_in_epoch
+    finDelLote = self._indiceDeEpoca
     print("siguiente lote, inicio: "+str(inicioDelLote)+", fin: "+str(finDelLote))
-
     return  self._imagenes[inicioDelLote:finDelLote], self._etiquetas[inicioDelLote:finDelLote], self._nombres[inicioDelLote:finDelLote], self._clases[inicioDelLote:finDelLote]
