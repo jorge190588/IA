@@ -29,7 +29,8 @@ def cargarDatosDeEntrenamiento(rutaDeDatos, tamanoDeImagenes, clases):
     #rutaDeDatosDeEntrenamiento = os.path.join(rutaDeDatos, clase, '*g')
     rutaDeDatosDeEntrenamiento=os.path.join(rutaDeDatos,clase+'.*.jpg')
     listaDeArchivos = glob.glob(rutaDeDatosDeEntrenamiento)
-    for archivo in listaDeArchivos[0:96]:
+    #for archivo in listaDeArchivos[0:96]:
+    for archivo in listaDeArchivos:
       imagen =obtenerImagenDesdeRuta(archivo,tamanoDeImagenes)
       imagenes.append(imagen)
 
