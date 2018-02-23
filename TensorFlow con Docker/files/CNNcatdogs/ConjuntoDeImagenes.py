@@ -6,7 +6,8 @@ import numpy as np
 
 class ConjuntoDeImagenes(object):
   """ contructor de la clase """
-  def __init__(self, imagenes, etiquetas, nombres, clases):
+  def __init__(self, imagenes, etiquetas, nombres, clases,nombre):
+    self._nombre= nombre
     self._recuento = imagenes.shape[0]
     self._imagenes = imagenes
     self._etiquetas = etiquetas
@@ -14,6 +15,10 @@ class ConjuntoDeImagenes(object):
     self._clases = clases
     self._epocasHechas = 0
     self._indiceDeEpoca = 0
+
+  @property
+  def nombre(self):
+    return self._nombre
 
   @property
   def imagenes(self):
@@ -52,5 +57,5 @@ class ConjuntoDeImagenes(object):
       assert tamanoDeLote <= self._recuento
 
     finDelLote = self._indiceDeEpoca
-    print("siguiente lote, inicio: "+str(inicioDelLote)+", fin: "+str(finDelLote))
+    print("siguiente lote de "+str(self._nombre)+", inicio: "+str(inicioDelLote)+", fin: "+str(finDelLote))
     return  self._imagenes[inicioDelLote:finDelLote], self._etiquetas[inicioDelLote:finDelLote], self._nombres[inicioDelLote:finDelLote], self._clases[inicioDelLote:finDelLote]
