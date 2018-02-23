@@ -1,9 +1,10 @@
 import tensorflow as tf
 
 class CNN(object):
-  """ contructor de la clase """
-  def __init__(self):
-        
+    """ contructor de la clase """
+    def __init__(self):
+        self._nombre=''
+            
     def crearCapaAplanada(capaNoAplanada):
         #We know that the shape of the layer will be [batch_size img_size img_size num_channels]
         #sabemos que la forma de una capa podria ser [tamanoPaquete tamanoImagene tamanoImagen numeroCanales]
