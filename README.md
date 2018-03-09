@@ -117,15 +117,10 @@
 * [Crear un paquete de imagenes y usarlo en un proyecto - Luis Leal (27/08/2017)](https://github.com/llealgt/Talleres_Conferencias_UMG/tree/master/Taller1)
 
 # VIDEOS
-## 1. [Demostración de Deep Learning con TensorFlow](https://www.youtube.com/watch?v=UYttzdEc1OI&t=2585s&list=PLsn4s6AtgL4iJ6sk9ws-OVk2pd20hDVHt&index=9)
-* Marlon y Jairo
-* Mayte y Telma
-* Gerson y Fredy
+1. [Demostración de Deep Learning con TensorFlow](https://www.youtube.com/watch?v=UYttzdEc1OI&t=2585s&list=PLsn4s6AtgL4iJ6sk9ws-OVk2pd20hDVHt&index=9)
+2. [Neural Networks con TensorFlow para reconocimiento de imágen](https://www.youtube.com/watch?v=gD_TJzzA29U&index=18&list=PLsn4s6AtgL4iJ6sk9ws-OVk2pd20hDVHt)
 
-## 2. [Neural Networks con TensorFlow para reconocimiento de imágen](https://www.youtube.com/watch?v=gD_TJzzA29U&index=18&list=PLsn4s6AtgL4iJ6sk9ws-OVk2pd20hDVHt)
-* Esvin y Douglas
-* Kevin y Carlos
-* Jimmy
-* Freddy
+# COURSES
+* [Machine learning course of google](https://developers.google.com/machine-learning/crash-course/ml-intro)
 
 
