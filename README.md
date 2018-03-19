@@ -28,9 +28,11 @@
 * [Image Filtering](http://machinelearninguru.com/computer_vision/basics/convolution/image_convolution_1.html)
 * [What is max pooling in convolutional neural networks?](https://www.quora.com/What-is-max-pooling-in-convolutional-neural-networks)
 * [image processing](https://en.wikipedia.org/wiki/Kernel_(image_processing))
+* [The 9 Deep Learning Papers You Need To Know About (Understanding CNNs](https://adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html)
 
-### Data Augmentation Techniques
+### Projects
 * [Data Augmentation Techniques in CNN using Tensorflow](https://medium.com/ymedialabs-innovation/data-augmentation-techniques-in-cnn-using-tensorflow-371ae43d5be9)
+* [Classification of Hand Gesture Pose using Tensorflow](https://medium.com/ymedialabs-innovation/classification-of-hand-gesture-pose-using-tensorflow-30e83064e0ed)
 
 ## Music with machine learning
 * [Make Music and Art Using Machine Learning](https://magenta.tensorflow.org/)
