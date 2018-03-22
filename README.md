@@ -32,6 +32,8 @@
 
 ### Architectures
 * [CNNs Architectures: LeNet, AlexNet, VGG, GoogLeNet, ResNet and more …](https://medium.com/@siddharthdas_32104/cnns-architectures-lenet-alexnet-vgg-googlenet-resnet-and-more-666091488df5)
+* [CNN architectures](http://slazebni.cs.illinois.edu/spring17/lec01_cnn_architectures.pdf)
+
 ### Projects
 * [Data Augmentation Techniques in CNN using Tensorflow](https://medium.com/ymedialabs-innovation/data-augmentation-techniques-in-cnn-using-tensorflow-371ae43d5be9)
 * [Classification of Hand Gesture Pose using Tensorflow](https://medium.com/ymedialabs-innovation/classification-of-hand-gesture-pose-using-tensorflow-30e83064e0ed)
