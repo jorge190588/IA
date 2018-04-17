@@ -38,6 +38,7 @@
 * [Data Augmentation Techniques in CNN using Tensorflow](https://medium.com/ymedialabs-innovation/data-augmentation-techniques-in-cnn-using-tensorflow-371ae43d5be9)
 * [Classification of Hand Gesture Pose using Tensorflow](https://medium.com/ymedialabs-innovation/classification-of-hand-gesture-pose-using-tensorflow-30e83064e0ed)
 * [Saving and loading a large number of images (data) into a single HDF5 file](http://machinelearninguru.com/deep_learning/data_preparation/hdf5/hdf5.html)
+* [Building a real time Face Recognition system using pre-trained FaceNet model](https://medium.com/@vinayakvarrier/building-a-real-time-face-recognition-system-using-pre-trained-facenet-model-f1a277a06947)
 
 ### Data Augmentation tools
 * [Augmentor](https://github.com/mdbloice/Augmentor)
