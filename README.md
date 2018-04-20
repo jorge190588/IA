@@ -30,9 +30,19 @@
 * [image processing](https://en.wikipedia.org/wiki/Kernel_(image_processing))
 * [The 9 Deep Learning Papers You Need To Know About (Understanding CNNs](https://adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html)
 
+### Architectures
+* [CNNs Architectures: LeNet, AlexNet, VGG, GoogLeNet, ResNet and more …](https://medium.com/@siddharthdas_32104/cnns-architectures-lenet-alexnet-vgg-googlenet-resnet-and-more-666091488df5)
+* [CNN architectures](http://slazebni.cs.illinois.edu/spring17/lec01_cnn_architectures.pdf)
+
 ### Projects
 * [Data Augmentation Techniques in CNN using Tensorflow](https://medium.com/ymedialabs-innovation/data-augmentation-techniques-in-cnn-using-tensorflow-371ae43d5be9)
 * [Classification of Hand Gesture Pose using Tensorflow](https://medium.com/ymedialabs-innovation/classification-of-hand-gesture-pose-using-tensorflow-30e83064e0ed)
+* [Saving and loading a large number of images (data) into a single HDF5 file](http://machinelearninguru.com/deep_learning/data_preparation/hdf5/hdf5.html)
+* [Building a real time Face Recognition system using pre-trained FaceNet model](https://medium.com/@vinayakvarrier/building-a-real-time-face-recognition-system-using-pre-trained-facenet-model-f1a277a06947)
+* [TensorFlow Object Detection with Docker from scratch](https://medium.com/@evheniybystrov/tensorflow-object-detection-with-docker-from-scratch-5e015b639b0b)
+
+### Data Augmentation tools
+* [Augmentor](https://github.com/mdbloice/Augmentor)
 
 ## Music with machine learning
 * [Make Music and Art Using Machine Learning](https://magenta.tensorflow.org/)
@@ -44,6 +54,7 @@
 * [Image recognition with TensorFlow](https://joomik.github.io/MNIST/)
 * [Puetes de Imagenes dataset CIFAR-10, dataset CIFAR-100, dataset SVHN, Imagenet](http://jorditorres.org/introduccion-practica-al-deep-learning-con-tensorflow-de-google-parte-3/)
 * [Image tutorial with matplotlib](https://matplotlib.org/users/image_tutorial.html)
+* [Imagenet.stanford.edu](http://image-net.org/challenges/LSVRC/2017/browse-synsets)
 
 ### Cats and Dogs project
 * [Dogs and cats dataset with convolutional network](http://cv-tricks.com/tensorflow-tutorial/training-convolutional-neural-network-for-image-classification/), [Dogs and cats dataset url](https://www.kaggle.com/c/dogs-vs-cats/data), [Complete code](https://github.com/sankit1/cv-tricks.com/tree/master/Tensorflow-tutorials/tutorial-2-image-classifier)
