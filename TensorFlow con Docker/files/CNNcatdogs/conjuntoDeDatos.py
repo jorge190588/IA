@@ -14,7 +14,7 @@ def obtenerImagenDesdeRuta(rutaDeImagen,tamanoDeImagenes):
   imagen = cv2.imread(rutaDeImagen)
   imagen = cv2.cvtColor(imagen, cv2.COLOR_RGB2BGR)
   imagen = cv2.resize(imagen, (tamanoDeImagenes, tamanoDeImagenes),0,0, cv2.INTER_LINEAR)
-  imagen = imagen.astype(np.float32)
+  imagen = imagen.astype(np.float64)
   imagen = np.multiply(imagen, 1.0 / 255.0)
   return imagen
 
@@ -23,7 +23,6 @@ def cargarDatosDeEntrenamiento(rutaDeDatos, tamanoDeImagenes, clases):
   etiquetas = []
   nombreDeImagenes = []
   grupoDeImagenes = []
-  
   for clase in clases:
     indiceDeClase = clases.index(clase)
     #rutaDeDatosDeEntrenamiento = os.path.join(rutaDeDatos, clase, '*g')
@@ -32,7 +31,7 @@ def cargarDatosDeEntrenamiento(rutaDeDatos, tamanoDeImagenes, clases):
 
     index=0
     totalImages = len(listaDeArchivos)
-    maxImages = 4000 # totalImages
+    maxImages = 100 # totalImages
     print('clase {}, indice {}, path {}, files number {}, max images {}'.format(clase, indiceDeClase, rutaDeDatosDeEntrenamiento,len(listaDeArchivos),maxImages))
 
     for archivo in listaDeArchivos[0:maxImages]:
