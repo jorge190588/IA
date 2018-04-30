@@ -31,10 +31,9 @@ def cargarDatosDeEntrenamiento(rutaDeDatos, tamanoDeImagenes, clases):
 
     index=0
     totalImages = len(listaDeArchivos)
-    maxImages = 100 # totalImages
+    maxImages = 5000 # totalImages
     print('clase {}, indice {}, path {}, files number {}, max images {}'.format(clase, indiceDeClase, rutaDeDatosDeEntrenamiento,len(listaDeArchivos),maxImages))
-
-    for archivo in listaDeArchivos[0:maxImages]:
+    for archivo in listaDeArchivos:
       imagen =obtenerImagenDesdeRuta(archivo,tamanoDeImagenes)
       imagenes.append(imagen)
       etiqueta = np.zeros(len(clases))
