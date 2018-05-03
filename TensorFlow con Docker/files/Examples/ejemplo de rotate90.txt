@@ -1,0 +1,75 @@
+import tensorflow as tf
+import matplotlib.image as mpimg
+import numpy as np
+import matplotlib.pyplot as plt
+IMAGE_SIZE = 224
+
+def redimensionarImagenes(rutaDeArchivos):
+    listaDeImagenes = []
+    tf.reset_default_graph()
+    imagenOriginal = tf.placeholder(tf.float32, (None, None, None))
+    tf_img = tf.image.resize_images(imagenOriginal, (IMAGE_SIZE, IMAGE_SIZE), tf.image.ResizeMethod.NEAREST_NEIGHBOR)
+    with tf.Session() as sess:
+        sess.run(tf.global_variables_initializer())
+        # Each image is resized individually as different image may be of different size.
+        
+        for contador, rutaDeImagen in enumerate(rutaDeArchivos):
+            print("Imagen # "+str(contador+1)+"/"+str(len(rutaDeArchivos))+" : "+str(rutaDeImagen))
+            imagenDeEntrada = mpimg.imread(rutaDeImagen)[:, :, :3] # Do not read alpha channel.
+            imagenConNuevoTamano = sess.run(tf_img, feed_dict = {imagenOriginal: imagenDeEntrada})
+            imagenReparada= np.multiply(imagenConNuevoTamano, 1.0 / 255.0)
+            listaDeImagenes.append(imagenReparada)
+    listaDeImagenes = np.array(listaDeImagenes, dtype = np.float32) # Convert to numpy
+    return listaDeImagenes
+
+# Obtener imagenes
+X_imgs = redimensionarImagenes(['/notebooks/imagenes/ropa/blusa1.jpg','/notebooks/imagenes/ropa/blusa2.jpg'])
+
+
+
+bloque 2
+def rotate_images(X_imgs):
+    X_rotate = []
+    tf.reset_default_graph()
+    X = tf.placeholder(tf.float32, shape = (IMAGE_SIZE, IMAGE_SIZE, 3))
+    k = tf.placeholder(tf.int32)
+    tf_img = tf.image.rot90(X, k = k)
+    with tf.Session() as sess:
+        sess.run(tf.global_variables_initializer())
+        for img in X_imgs:
+            for i in range(3):  # Rotation at 90, 180 and 270 degrees
+                rotated_img = sess.run(tf_img, feed_dict = {X: img, k: i + 1})
+                X_rotate.append(rotated_img)
+                
+            #print("Rotar alrevez")
+            #for i in range(3,-1,-1):  # Rotation at 90, 180 and 270 degrees
+                #rotated_img = sess.run(tf_img, feed_dict = {X: img, k: i + 1})
+                #X_rotate.append(rotated_img)
+        
+    X_rotate = np.array(X_rotate, dtype = np.float32)
+    return X_rotate
+	
+rotated_imgs = rotate_images(X_imgs)
+
+
+bloque 3
+# Mostrar imagenes
+#Imagenes originales
+print("Imagenes originales")
+for imagen in X_imgs:
+    imgplot = plt.imshow(imagen)
+    plt.show()
+    
+#Imagenes con Rotación de 90 grados    
+print("Imagenes rotadas a 90°")
+for image in rotated_imgs:    
+    print type(image)
+    plt.imshow(image)
+    plt.show()
+
+
+
+
+
+
+
