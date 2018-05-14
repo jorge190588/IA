@@ -57,5 +57,5 @@ class ConjuntoDeImagenes(object):
       assert tamanoDeLote <= self._recuento
 
     finDelLote = self._indiceDeEpoca
-    print("siguiente lote de "+str(self._nombre)+", inicio: "+str(inicioDelLote)+", fin: "+str(finDelLote))
+    # print("siguiente lote de "+str(self._nombre)+", inicio: "+str(inicioDelLote)+", fin: "+str(finDelLote))
     return  self._imagenes[inicioDelLote:finDelLote], self._etiquetas[inicioDelLote:finDelLote], self._nombres[inicioDelLote:finDelLote], self._clases[inicioDelLote:finDelLote]
