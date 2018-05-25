@@ -49,7 +49,7 @@
 * [Character Recognition in real time using CNN and OpenCV](https://itvid.net/video/opencv-3-knn-character-recognition-python-c96w1JS28AY.html)
 * [Real-Time Object Detection in OpenCV with Automatic Perspective Correction!](https://itvid.net/video/real-time-object-detection-in-opencv-with-automatic-perspective-correction-kLnkAZCwZX0.html)
 * [real_time_face_detection and recognition](https://github.com/shanren7/real_time_face_recognition)
-
+* [License Plate Recognition with OpenCV 3 : OCR License Plate Recognition](https://itvid.net/video/license-plate-recognition-with-opencv-3-ocr-license-plate-recognition-nmDiZGx5mqU.html)
 
 ### Data Augmentation tools
 * [Augmentor](https://github.com/mdbloice/Augmentor)
