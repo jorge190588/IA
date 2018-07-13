@@ -20,6 +20,10 @@
 * [TensorFlow y Redes Neuronales](https://relopezbriega.github.io/blog/2016/06/05/tensorflow-y-redes-neuronales/)
 * [Variables - placeholders](https://learningtensorflow.com/lesson4/)
 
+## Convolutional Deep Belief Networks DBNs 
+*[Convolutional Deep Belief Networks
+for Scalable Unsupervised Learning of Hierarchical Representations](https://www.cs.toronto.edu/~rgrosse/icml09-cdbn.pdf)
+
 ## Machine Learning
 * [Scikit learn library](http://scikit-learn.org)
 
