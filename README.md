@@ -42,8 +42,18 @@ for Scalable Unsupervised Learning of Hierarchical Representations](https://www.
 * [Data Augmentation Techniques in CNN using Tensorflow](https://medium.com/ymedialabs-innovation/data-augmentation-techniques-in-cnn-using-tensorflow-371ae43d5be9)
 * [Classification of Hand Gesture Pose using Tensorflow](https://medium.com/ymedialabs-innovation/classification-of-hand-gesture-pose-using-tensorflow-30e83064e0ed)
 * [Saving and loading a large number of images (data) into a single HDF5 file](http://machinelearninguru.com/deep_learning/data_preparation/hdf5/hdf5.html)
-* [Building a real time Face Recognition system using pre-trained FaceNet model](https://medium.com/@vinayakvarrier/building-a-real-time-face-recognition-system-using-pre-trained-facenet-model-f1a277a06947)
 * [TensorFlow Object Detection with Docker from scratch](https://medium.com/@evheniybystrov/tensorflow-object-detection-with-docker-from-scratch-5e015b639b0b)
+
+### Facenet
+* [Building a real time Face Recognition system using pre-trained FaceNet model](https://medium.com/@vinayakvarrier/building-a-real-time-face-recognition-system-using-pre-trained-facenet-model-f1a277a06947)
+* [Detect faces using facenet in Python](https://jekel.me/2017/How-to-detect-faces-using-facenet/)
+* [real-time-face-recognition-with-facenet](https://github.com/ishwarsawale/real-time-face-recognition-with-facenet)
+* [FACENET](https://hub.docker.com/r/zixia/facenet/)
+* [MTCNN Face Detection and Matching using Facenet Tensorflow](http://www.python36.com/face-detection-matching-using-facenet/)
+* [Character Recognition in real time using CNN and OpenCV](https://itvid.net/video/opencv-3-knn-character-recognition-python-c96w1JS28AY.html)
+* [Real-Time Object Detection in OpenCV with Automatic Perspective Correction!](https://itvid.net/video/real-time-object-detection-in-opencv-with-automatic-perspective-correction-kLnkAZCwZX0.html)
+* [real_time_face_detection and recognition](https://github.com/shanren7/real_time_face_recognition)
+* [License Plate Recognition with OpenCV 3 : OCR License Plate Recognition](https://itvid.net/video/license-plate-recognition-with-opencv-3-ocr-license-plate-recognition-nmDiZGx5mqU.html)
 
 ### Data Augmentation tools
 * [Augmentor](https://github.com/mdbloice/Augmentor)

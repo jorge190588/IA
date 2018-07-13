@@ -31,22 +31,25 @@ def cargarDatosDeEntrenamiento(rutaDeDatos, tamanoDeImagenes, clases):
 
     index=0
     totalImages = len(listaDeArchivos)
-    maxImages = 5000 # totalImages
+    maxImages =  totalImages
     print('clase {}, indice {}, path {}, files number {}, max images {}'.format(clase, indiceDeClase, rutaDeDatosDeEntrenamiento,len(listaDeArchivos),maxImages))
     for archivo in listaDeArchivos:
-      imagen =obtenerImagenDesdeRuta(archivo,tamanoDeImagenes)
-      imagenes.append(imagen)
-      etiqueta = np.zeros(len(clases))
-      etiqueta[indiceDeClase] = 1.0
-      etiquetas.append(etiqueta)
+      try:
+        imagen = obtenerImagenDesdeRuta(archivo,tamanoDeImagenes)
+        imagenes.append(imagen)
+        etiqueta = np.zeros(len(clases))
+        etiqueta[indiceDeClase] = 1.0
+        etiquetas.append(etiqueta)
 
-      nombreDeImagen = os.path.basename(archivo)
-      nombreDeImagenes.append(nombreDeImagen)
-      grupoDeImagenes.append(clase)
-      
-      if((index+1) % 1000 == 0):
-        print('progress, read {} of {}'.format(index,totalImages))
-      index = index + 1
+        nombreDeImagen = os.path.basename(archivo)
+        nombreDeImagenes.append(nombreDeImagen)
+        grupoDeImagenes.append(clase)
+        
+        if((index+1) % 1000 == 0):
+          print('progress, read {} of {}'.format(index,totalImages))
+        index = index + 1
+      except Exception:
+        pass
 
   imagenes = np.array(imagenes)
   etiquetas = np.array(etiquetas)
