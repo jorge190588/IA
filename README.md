@@ -54,7 +54,8 @@ for Scalable Unsupervised Learning of Hierarchical Representations](https://www.
 * [Real-Time Object Detection in OpenCV with Automatic Perspective Correction!](https://itvid.net/video/real-time-object-detection-in-opencv-with-automatic-perspective-correction-kLnkAZCwZX0.html)
 * [real_time_face_detection and recognition](https://github.com/shanren7/real_time_face_recognition)
 * [License Plate Recognition with OpenCV 3 : OCR License Plate Recognition](https://itvid.net/video/license-plate-recognition-with-opencv-3-ocr-license-plate-recognition-nmDiZGx5mqU.html)
-
+* [Human Face Identification and Face Attribute Prediction:
+from Gabor Filtering to Deep Learning](http://www.diva-portal.org/smash/get/diva2:1044030/FULLTEXT01.pdf)
 ### Data Augmentation tools
 * [Augmentor](https://github.com/mdbloice/Augmentor)
 
