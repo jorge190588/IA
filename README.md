@@ -155,4 +155,8 @@ from Gabor Filtering to Deep Learning](http://www.diva-portal.org/smash/get/diva
 # COURSES
 * [Machine learning course of google](https://developers.google.com/machine-learning/crash-course/ml-intro)
 
+# Events
+*[Datacamp](https://www.datacamp.com)
+*[Reunion internacional ](https://riiaa.org)
+
 
