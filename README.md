@@ -44,7 +44,7 @@ for Scalable Unsupervised Learning of Hierarchical Representations](https://www.
 * [Saving and loading a large number of images (data) into a single HDF5 file](http://machinelearninguru.com/deep_learning/data_preparation/hdf5/hdf5.html)
 * [TensorFlow Object Detection with Docker from scratch](https://medium.com/@evheniybystrov/tensorflow-object-detection-with-docker-from-scratch-5e015b639b0b)
 * [Dermatologist-level classification of skin cancer](https://cs.stanford.edu/people/esteva/nature/)
-
+* [VEHICLE DETECTION, TRACKING AND COUNTING](https://towardsdatascience.com/tensorflow-object-detection-with-docker-from-scratch-5e015b639b0b)
 
 ### Facenet
 * [Building a real time Face Recognition system using pre-trained FaceNet model](https://medium.com/@vinayakvarrier/building-a-real-time-face-recognition-system-using-pre-trained-facenet-model-f1a277a06947)
