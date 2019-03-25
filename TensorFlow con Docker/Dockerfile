@@ -10,11 +10,12 @@ RUN apt-get install -y git
 RUN apt-get update && apt-get install -y --no-install-recommends apt-utils
 RUN apt-get --yes install python-pip 
 RUN apt-get install wget
+
 RUN pip install --upgrade pip
 RUN pip install --upgrade python
-RUN apt-get --yes --force-yes install python-pip
-RUN pip install numpy
 RUN pip install scipy
+RUN pip install --upgrade pip
+RUN pip install numpy
 RUN python -m pip install --user numpy scipy
 RUN pip install plotly
 RUN pip install tflearn
@@ -25,7 +26,7 @@ RUN apt-get install -y libxrender-dev
 RUN pip install -U scikit-learn
 RUN apt-get install python-opencv -y
 RUN apt-get update
-RUN pip install https://storage.googleapis.com/tensorflow/linux/gpu/tensorflow_gpu-1.0.0-cp27-none-linux_x86_64.whl
+RUN pip install https://storage.googleapis.com/tensorflow/linux/gpu/tensorflow_gpu-1.9.0-cp27-none-linux_x86_64.whl
 RUN python -m pip install jupyter
 # RUN apt-get --yes install libcuda1-384  
 # RUN apt-get --yes install cuda
