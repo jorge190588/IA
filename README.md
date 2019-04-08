@@ -32,6 +32,7 @@ for Scalable Unsupervised Learning of Hierarchical Representations](https://www.
 * [Image Filtering](http://machinelearninguru.com/computer_vision/basics/convolution/image_convolution_1.html)
 * [What is max pooling in convolutional neural networks?](https://www.quora.com/What-is-max-pooling-in-convolutional-neural-networks)
 * [image processing](https://en.wikipedia.org/wiki/Kernel_(image_processing))
+* [Image Kernels](http://setosa.io/ev/image-kernels/)
 * [The 9 Deep Learning Papers You Need To Know About (Understanding CNNs](https://adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html)
 
 ### Architectures
