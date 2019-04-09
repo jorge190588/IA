@@ -19,6 +19,7 @@
 * [Deep Image Matting](https://arxiv.org/pdf/1703.03872.pdf)
 * [TensorFlow y Redes Neuronales](https://relopezbriega.github.io/blog/2016/06/05/tensorflow-y-redes-neuronales/)
 * [Variables - placeholders](https://learningtensorflow.com/lesson4/)
+* [Cheat Sheets for AI, Neural Networks, Machine Learning, Deep Learning & Big Data](https://media.licdn.com/dms/document/C511FAQH9aqt9wvN36A/feedshare-document-pdf-analyzed/0?e=1554904800&v=beta&t=Ntg6gRuZCI_e-9hL88HZNWx0XwVziKsGeE-q69nE5f8)
 
 ## Convolutional Deep Belief Networks DBNs 
 *[Convolutional Deep Belief Networks
