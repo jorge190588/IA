@@ -21,6 +21,9 @@
 * [Variables - placeholders](https://learningtensorflow.com/lesson4/)
 * [Cheat Sheets for AI, Neural Networks, Machine Learning, Deep Learning & Big Data](https://media.licdn.com/dms/document/C511FAQH9aqt9wvN36A/feedshare-document-pdf-analyzed/0?e=1554904800&v=beta&t=Ntg6gRuZCI_e-9hL88HZNWx0XwVziKsGeE-q69nE5f8)
 
+## Clustering
+*[Clustering algorithms for customer segmentation - sales example](https://towardsdatascience.com/clustering-algorithms-for-customer-segmentation-af637c6830ac)
+
 ## Convolutional Deep Belief Networks DBNs 
 *[Convolutional Deep Belief Networks
 for Scalable Unsupervised Learning of Hierarchical Representations](https://www.cs.toronto.edu/~rgrosse/icml09-cdbn.pdf)
@@ -160,5 +163,7 @@ from Gabor Filtering to Deep Learning](http://www.diva-portal.org/smash/get/diva
 # Events
 *[Datacamp](https://www.datacamp.com)
 *[Reunion internacional ](https://riiaa.org)
+
+
 
 
