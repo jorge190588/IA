@@ -165,5 +165,11 @@ from Gabor Filtering to Deep Learning](http://www.diva-portal.org/smash/get/diva
 *[Reunion internacional ](https://riiaa.org)
 
 
-
+# ONNX
+*[Building an image recognition React app using ONNX.js - ONNX.js is a JavaScript library by Microsoft for running ONNX models on browsers and on Node.js.](https://heartbeat.fritz.ai/building-an-image-recognition-app-using-onnx-js-c7147f4f291b)
+*[Microsoft ONNX JS demos with vue.js demo online](https://microsoft.github.io/onnxjs-demo)
+*[Microsoft ONNX JS demos with vue.js repository](https://github.com/microsoft/onnxjs-demo)
+*[ONNX - Heartbeat repository](https://github.com/zsajjad/onnx-heartbeat)
+*[TorchJS: Running PyTorch Models in NodeJS](https://blog.chainintel.com/torchjs-running-pytorch-models-in-nodejs-348022b0d291)
+*[TorchJS](https://github.com/torch-js/torch-js)
 
