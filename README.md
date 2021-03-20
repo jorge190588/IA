@@ -21,6 +21,9 @@
 * [Variables - placeholders](https://learningtensorflow.com/lesson4/)
 * [Cheat Sheets for AI, Neural Networks, Machine Learning, Deep Learning & Big Data](https://media.licdn.com/dms/document/C511FAQH9aqt9wvN36A/feedshare-document-pdf-analyzed/0?e=1554904800&v=beta&t=Ntg6gRuZCI_e-9hL88HZNWx0XwVziKsGeE-q69nE5f8)
 
+## YOLO v5
+* [Yolo V5 documentation](https://github.com/ultralytics/yolov5)
+
 ## Clustering
 *[Clustering algorithms for customer segmentation - sales example](https://towardsdatascience.com/clustering-algorithms-for-customer-segmentation-af637c6830ac)
 
@@ -83,8 +86,15 @@ from Gabor Filtering to Deep Learning](http://www.diva-portal.org/smash/get/diva
 * [Show cats and dogs in RGB](https://www.datasciencecentral.com/profiles/blogs/dogs-vs-cats-image-classification-with-deep-learning-using)
 
 ## EXAMPLES
+ * [Face substitution](https://www.auduno.com/clmtrackr/examples/facesubstitution.html)
+ * [Jeeliz face filter](https://github.com/jeeliz/jeelizFaceFilter)
+ * [Face Swap](https://codepen.io/Mamboleoo/pen/xZKzaE)
+ * [Face Weboji PLUS](https://github.com/jeeliz/jeelizWeboji)
  * [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples)
  * [Erick Ramirez Examples](https://github.com/Erickramirez/)
+
+## PLATFORMS
+* [Supervisely](https://supervise.ly/)
  
 ## TOOLS
 * [Python](https://www.python.org/)
