@@ -23,7 +23,8 @@
 
 ## YOLO v5
 * [Yolo V5 documentation](https://github.com/ultralytics/yolov5)
-
+* []()
+* 
 ## Clustering
 *[Clustering algorithms for customer segmentation - sales example](https://towardsdatascience.com/clustering-algorithms-for-customer-segmentation-af637c6830ac)
 
@@ -35,6 +36,7 @@ for Scalable Unsupervised Learning of Hierarchical Representations](https://www.
 * [Scikit learn library](http://scikit-learn.org)
 
 ### Convolutional Neural Network
+* [Redes Neuronales Convolucionales](https://www.juanbarrios.com/redes-neurales-convolucionales)
 * [Undrestanding Convolutional Layers in Convolutional Neural Networks (CNNs)](http://machinelearninguru.com/computer_vision/basics/convolution/convolution_layer.html)
 * [Image Filtering](http://machinelearninguru.com/computer_vision/basics/convolution/image_convolution_1.html)
 * [What is max pooling in convolutional neural networks?](https://www.quora.com/What-is-max-pooling-in-convolutional-neural-networks)
