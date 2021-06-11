@@ -23,8 +23,7 @@
 
 ## YOLO v5
 * [Yolo V5 documentation](https://github.com/ultralytics/yolov5)
-* []()
-* 
+
 ## Clustering
 *[Clustering algorithms for customer segmentation - sales example](https://towardsdatascience.com/clustering-algorithms-for-customer-segmentation-af637c6830ac)
 
