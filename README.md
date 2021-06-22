@@ -25,6 +25,7 @@
 * [Yolo V5 documentation](https://github.com/ultralytics/yolov5)
 * [Yolo y etiquetado con makesense.ai](https://www.youtube.com/watch?v=TONXYsP8fvs)
 * [LabelImg para etiquetado](https://github.com/tzutalin/labelImg)
+* [Roboflow para etiquetado y aumentación de datos](https://app.roboflow.com/)
 
 ## Clustering
 *[Clustering algorithms for customer segmentation - sales example](https://towardsdatascience.com/clustering-algorithms-for-customer-segmentation-af637c6830ac)
